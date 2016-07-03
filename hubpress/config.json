@@ -4,7 +4,12 @@
     "repositoryName": "backemulus.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "backe mulus",
+    "description": "Philosophische Ligaturen"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "ghostium"
   }
 }
