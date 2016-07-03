@@ -9,7 +9,10 @@
     "description": "Philosophische Ligaturen",
     "postsPerPage": "10"
   },
-  "socialnetwork": {},
+  "socialnetwork": {
+    "email": "i.stemmert@gmail.com",
+    "twitter": "https://twitter.com/bertrandterrier"
+  },
   "theme": {
     "name": "casper"
   }
