@@ -6,11 +6,11 @@
   },
   "site": {
     "title": "backe mulus",
-    "description": "Philosophische Ligaturen"
+    "description": "Philosophische Ligaturen",
+    "postsPerPage": "10"
   },
   "socialnetwork": {},
   "theme": {
-    "name": "saga",
-    "url": "https://github.com/backemulus/backemulus.github.io/blob/master/themes/saga"
+    "name": "saga"
   }
 }
