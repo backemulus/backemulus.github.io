@@ -1,4 +1,5 @@
 # Unspezifität und Risiko komplexer Kompensation
+:hp-tags: Kompensation, Blumenberg
 
 _@reisagains_ unterscheidet in seinem Blog http://www.reis.space[Critical Otter Studies]
 zwei Arten von Kompensation:
@@ -53,7 +54,7 @@ das Risiko unspezifischer Kompensationsversuche wagen.
 Erst bei Erfolg komplexer Kompensation durch Auslagerung und die dadurch eröffneten Möglichkeiten
 wird die Gemeinschaft insgesamt die kompensatorischen Methoden übernehmen.
 
-## post scriptum
+### post scriptum
 
 Es lohnt die Suche nicht, in Blumenbergs Schriften zu finden, was ich hereingelesen habe.
 Mit närrischer Frechheit habe ich seine Ansätze gestohlen, auf fremdes Terrain entführt
