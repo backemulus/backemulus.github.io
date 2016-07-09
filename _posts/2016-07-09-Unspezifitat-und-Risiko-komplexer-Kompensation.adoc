@@ -1,4 +1,4 @@
-# Unspezifität und Gefahr komplexer Kompensation
+# Unspezifität und Risiko komplexer Kompensation
 
 _@reisagains_ unterscheidet in seinem Blog http://www.reis.space[Critical Otter Studies]
 zwei Arten von Kompensation:
@@ -9,25 +9,23 @@ zwei Arten von Kompensation:
 > 2. Eine Funktion, die bisher auf primitivere Weise gelöst wurde, wird nun durch
 > Auslagerung scheinbar aufgegeben und in komplexerer Weise erfüllt.
 >
-> http://www.reis.space/jekyll/update/2016/06/30/kompensation.html[Critical Otter Studies – *Kompensation und poetisches Lesen*]
+> http://www.reis.space/jekyll/update/2016/06/30/kompensation.html[–Critical Otter Studies – *Kompensation und poetisches Lesen*]
 
 Letzteres aber erfordert vorerst eine _wirkliche_ Aufgabe, die nur nach erfolgreicher Auslagerung der Funktion zur scheinbaren  wird.
-Deren Gelingen kann allerdings nicht vorhergesagt werden, da es nicht möglich ist, eine komplexe Kompensation von einem nicht-komplexen Standpunkt zu beurteilen. Insofern ist Kompensation in diesem Sinne immer unspezifisch
-und risikoreich. Die Frage ist nun: Weshalb kommt es zu einer solchen Gefährdung?
+Deren Gelingen kann allerdings nicht vorhergesagt werden, da eine komplexe Kompensation von einem nicht-komplexen Standpunkt keiner Beurteilung zugängig ist. In diesem Sinne ist Kompensation immer unspezifisch und risikoreich. Die Frage ist nun: Weshalb kommt es zu einer solchen Gefährdung?
 
 Mit dem _Dilemma der Höhle_ fängt alles an. Trotz deren defizitären Angepaßtheit bot die Höhle Schutz und Obdach auch den Schwachen und Kranken.
 
 > Diese Kinder der Höhle, die niemals das Recht der Stärkeren und das der jagenden Ernährer
 > für sich geltend machen konnte, erfanden den Mechanismus der Kompensation.
 >
-> Hans Blumenberg: *Höhlenausgänge*, Frankfurt a.M., 2. Aufl., 1989, *28*
+> –Hans Blumenberg: *Höhlenausgänge*, Frankfurt a.M., 2. Aufl., 1989, *28*
 
-Weil sie sich nicht anschließen konnten, die Höhle zur Nahrungssuche
-zu verlassen, ersetzen sie den Bericht des Geschehenen durch die Erzählung von Erdachtem.
+Weil die Höhle zur Nahrungssuche zu verlassen, ihnen nicht möglich war, ersetzen sie den Bericht v Geschehenen durch die Erzählung von Erdachtem.
 Ist die Sprache des Jägers von den Nöten der Wirklichkeit, aber vor allem der Selbsterhaltung geprägt, kompensiert der Schwache
 Leistungs- und Erfahrungsdefizit mit der sprachlichen Konstruktion von Wirklichkeiten
-und transformiert dermaßen die Bedingungen, d.h. Bewertungskriterien, zu Narrationen als
-Narrativen. Konnte der Bericht zuvor nur _als_ Bericht an seinen eigenen Gelingenskriterien bewertet werden,
+und transformiert dermaßen die Bedingungen, d.h. Bewertungskriterien, zu _Narrationen als
+Narrativen_. Konnte der Bericht zuvor nur _als_ Bericht an seinen eigenen Gelingenskriterien bewertet werden,
 muß er sich nun als sinnstiftende Erzählform neben anderen beweisen.
 
 Als primitive Kompensation kann die Erzählung – und sei sie noch
@@ -47,7 +45,7 @@ sondern vorerst nur einzelne Mitglieder zu Kompensation sich genötigt fühlen. 
 
 > Wie so oft, begünstigt die Starrheit in einem Teil des Systems seine Elastizität in den anderen Teilen.
 >
-> Hans Blumenberg: *„Existenzrisiko und Prävention“*, in: *Beschreibung des Menschen*,
+> – Hans Blumenberg: *„Existenzrisiko und Prävention“*, in: *Beschreibung des Menschen*,
 Frankfurt a.M., 1. Aufl., 2016, 550-622, hier *558*
 
 Weil derart durch andere vor fatalem Scheitern (Tod) geschützt, können einzelne
