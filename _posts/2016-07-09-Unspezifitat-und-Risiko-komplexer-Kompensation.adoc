@@ -1,5 +1,5 @@
 # Unspezifität und Risiko komplexer Kompensation
-:hp-tags: Kompensation, Blumenberg
+:hp-tags: Kompensation, Blumenberg,
 
 _@reisagains_ unterscheidet in seinem Blog http://www.reis.space[Critical Otter Studies]
 zwei Arten von Kompensation:
