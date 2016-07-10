@@ -8,6 +8,7 @@
   "site": {
     "title": "backenmulus",
     "description": "Philosophische Ligaturen",
+    "logo": "/images/mulus.jpg",
     "postsPerPage": "10",
     "disqus": "bterrier"
   },
