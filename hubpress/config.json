@@ -2,7 +2,8 @@
   "meta": {
     "username": "backemulus",
     "repositoryName": "backemulus.github.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": "www.mulus.science"
   },
   "site": {
     "title": "backe mulus",
