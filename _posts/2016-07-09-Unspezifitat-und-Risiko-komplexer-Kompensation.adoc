@@ -1,7 +1,7 @@
 # Unspezifität und Risiko komplexer Kompensation
 :hp-tags: Kompensation, Blumenberg,
 
-_@reisagains_ unterscheidet in seinem Blog http://www.reis.space[Critical Otter Studies]
+In seinem Blog http://www.reis.space[Critical Otter Studies] unterscheidet _@reisagainst_
 zwei Arten von Kompensation:
 
 > 1. Ein Leistungsverlust wird von einem System durch erhöhte Aktivität ausgeglichen
@@ -10,19 +10,19 @@ zwei Arten von Kompensation:
 > 2. Eine Funktion, die bisher auf primitivere Weise gelöst wurde, wird nun durch
 > Auslagerung scheinbar aufgegeben und in komplexerer Weise erfüllt.
 >
-> http://www.reis.space/jekyll/update/2016/06/30/kompensation.html[–Critical Otter Studies – *Kompensation und poetisches Lesen*]
+> http://www.reis.space/jekyll/update/2016/06/30/kompensation.html[– Critical Otter Studies – *Kompensation und poetisches Lesen*]
 
 Letzteres aber erfordert vorerst eine _wirkliche_ Aufgabe, die nur nach erfolgreicher Auslagerung der Funktion zur scheinbaren  wird.
-Deren Gelingen kann allerdings nicht vorhergesagt werden, da eine komplexe Kompensation von einem nicht-komplexen Standpunkt keiner Beurteilung zugängig ist. In diesem Sinne ist Kompensation immer unspezifisch und risikoreich. Die Frage ist nun: Weshalb kommt es zu einer solchen Gefährdung?
+Deren Gelingen kann nicht vorhergesagt werden, da eine komplexe Kompensation von einem nicht-komplexen Standpunkt keiner Beurteilung zugängig ist. In diesem Sinne ist Kompensation immer unspezifisch und risikoreich. Die Frage ist nun: Weshalb kommt es zu einer solchen Gefährdung?
 
 Mit dem _Dilemma der Höhle_ fängt alles an. Trotz deren defizitären Angepaßtheit bot die Höhle Schutz und Obdach auch den Schwachen und Kranken.
 
 > Diese Kinder der Höhle, die niemals das Recht der Stärkeren und das der jagenden Ernährer
 > für sich geltend machen konnte, erfanden den Mechanismus der Kompensation.
 >
-> –Hans Blumenberg: *Höhlenausgänge*, Frankfurt a.M., 2. Aufl., 1989, *28*
+> – Hans Blumenberg: *Höhlenausgänge*, Frankfurt a.M., 2. Aufl., 1989, *28*
 
-Weil die Höhle zur Nahrungssuche zu verlassen, ihnen nicht möglich war, ersetzen sie den Bericht v Geschehenen durch die Erzählung von Erdachtem.
+Weil die Höhle zur Nahrungssuche zu verlassen, ihnen nicht möglich ist, ersetzen sie den Bericht über Geschehenes durch die Erzählung von Erdachtem.
 Ist die Sprache des Jägers von den Nöten der Wirklichkeit, aber vor allem der Selbsterhaltung geprägt, kompensiert der Schwache
 Leistungs- und Erfahrungsdefizit mit der sprachlichen Konstruktion von Wirklichkeiten
 und transformiert dermaßen die Bedingungen, d.h. Bewertungskriterien, zu _Narrationen als
@@ -31,22 +31,21 @@ muß er sich nun als sinnstiftende Erzählform neben anderen beweisen.
 
 Als primitive Kompensation kann die Erzählung – und sei sie noch
 so gekonnt – den Bericht nicht ersetzen. Aber die konkrete Kompensation fiktiver und konjunktiver Erzählung bedingt und wird bedingt durch
-die Kompensationsleistung des Narrativs. Dieser muß auch der Bericht sich zwingend unterordnen.
-Die nun möglichen Fragen und Forderungen lassen sich nicht mehr eliminieren und könnten
-nur ignoriert, verschwiegen, verdrängt werden. Allerdings erlaubt das Narrativ eine völlig neue
+die Kompensationsleistung des Narrativs. Auch der Bericht muß sich dieser zwingend unterordnen.
+Die nun möglichen Fragen und Forderungen lassen sich nicht mehr eliminieren sondern nur ignorieren. Eine Ignoranz, die größte Anstrenung zur Verdrängung erfordern würde. Das Narrativ erlaubt eine völlig neue
 Form der _actio per distans_ (Blumenberg) und somit eine neue Art, Widerfahrnissen (Kamlah) und Widerständen
-(Cassirer) der Wirklichkeit zu begegnen und diese zu bewältigen.
+(Cassirer) der Wirklichkeit zu begegnen und vor allem diese zu bewältigen.
 
 Aus dieser Erzählung – deren Evidenz nicht von der Überprüfbarkeit ihrer Aussagen an
-der Menschheitsgeschichte abhängt, und damit selbst zum Beispiel für ihren Inhalt wird –
+der Menschheitsgeschichte abhängt und damit selbst zum Beispiel für ihren Inhalt wird –
 können die Ermöglichungsbedingungen komplexer Kompensation durch Auslagerung abstrahiert werden:
 
 Schutz durch Beständigkeit der Gemeinschaft, innerhalb derer nicht alle zugleich
-sondern vorerst nur einzelne Mitglieder zu Kompensation sich genötigt fühlen. Es gilt:
+sondern vorerst nur einzelne Mitglieder zur Kompensation sich genötigt fühlen. Es gilt:
 
 > Wie so oft, begünstigt die Starrheit in einem Teil des Systems seine Elastizität in den anderen Teilen.
 >
-> – Hans Blumenberg: *„Existenzrisiko und Prävention“*, in: *Beschreibung des Menschen*,
+> – Blumenberg: *„Existenzrisiko und Prävention“*, in: *Beschreibung des Menschen*,
 Frankfurt a.M., 1. Aufl., 2016, 550-622, hier *558*
 
 Weil derart durch andere vor fatalem Scheitern (Tod) geschützt, können einzelne
