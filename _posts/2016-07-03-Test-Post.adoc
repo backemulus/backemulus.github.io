@@ -1,7 +1,0 @@
-= Test Post
-
-Ein erster Testpost mit
-
-> einem Zitat
-
-etc. etc.
