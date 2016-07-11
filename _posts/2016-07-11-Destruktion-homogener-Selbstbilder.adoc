@@ -27,12 +27,12 @@ Bewältigung der Wirklichkeit durch Wissen leitet.
 >
 > -> *10*
 
-Jedoch richtet sich Aufklärung gegen sich selbst: Bei der _Ausrottung des Animismus_ (11)
+Jedoch richtet sich Aufklärung gegen sich selbst. Bei der _Ausrottung des Animismus_ (11)
 entledigt sie sich gleichsam den der Aufklärung eigenen Narrativen, ihrem Sinnesfundament.
 Gilt ihr alles als verdächtig, _was dem Maß von Berechenbarkeit und Nützlichkeit sich nicht fügen
 will_, so auch ihre grundsätzlichen und leitenden Ideen. Aufklärung wird totalitär.
 Denn ihre Methoden, ihr _Maß von Berechenbarkeit und Nützlichkeit_, zu befragen und jene wiederum aufzuklären
-kann sie nicht erlauben. So _schlägt (Aufklärung) in Mythologie zurück_ (6)
+kann sie nicht erlauben. So _schlägt (Aufklärung) in Mythologie zurück_ (6).
 Auf die Frage ihres Sinnbestandes antwortet sie mit sich selbst. Jeder Versuch von Kritik, ja schon
 die minimalste Skepsis ist ihr bereits Gegen-Aufklärerisch
 und muß, unter den identitätssichernden Parolen der Aufklärung,
@@ -48,9 +48,9 @@ Aufnahme der _Reflexion auf dieses rückläufige Moment_ (3). Ich nutze den unte
 Unmut, mich von den beiden Frankfurter Köpfen zu entfernen.
 
 Meine These: Die Kritik der Kritik scheitert an einer Identitätsbildungskompetenz.
-Die Kompetenz zur Bildung eines universalen Subjekts ist Kompensation zur Wiederherstellung
+Diese Kompetenz zur Bildung eines universalen Subjekts ist Kompensation zur Wiederherstellung
 von Selbstverständlichkeiten. Durch die _kopernikanische Wende_ (Blumenberg) und die bei
-Descartes sich verdichtende Idee eines neuartigen Weltbezugs hatte die Vorstellung eines sich selbst
+Descartes sich verdichtende Idee eines neuartigen Weltbezugs hatte die Vorstellungen eines sich selbst
 sichernden Kosmos oder einer von Gott gesicherten Welt hinfällig werden lassen.
 Nicht der Gedanke _keines_ Gottes sondern der eines _unverläßlichen_
 war erschütternde Neuheit. Während die Gottesfrage – nun unwichtig – ins Persönliche absinken konnte, mußte das Subjekt Identität werden; zu wenigstens _einer_ Sicherheit, auf die alle übrigen Unsicherheiten
@@ -66,14 +66,14 @@ in: *Die Kunst des Überlebens*, hrsg. v. Wetz u. Timm, Frankfurt a. M., 1. Aufl
 
 Perspektivität als Perspektiven verschiedener Subjekte – ja. Nicht aber die Subjekte
 verstehen sich perspektivisch. Ein solcher Gedanke würde diesen Vielschichtigkeit und eine
-ihr inhärente Verschiedenartigkeit unterstellen und sie als sichere Letztinstanz destruieren. Die gewonnene Perspektivität
+ihnen inhärente Verschiedenartigkeit unterstellen und sie als sichere Letztinstanz destruieren. Die gewonnene Perspektivität
 endet zugunsten der Selbsterhaltung des Subjekts eben bei diesem.
 
 # III
 
 Dermaßen läßt sich erklären, wie noch ein redlich-kritisch denkender Kopf bzgl. der eigenen
-Sache unter stupend stupider Blindheit leiden kann. Nehmen wir beispielhaft einen anderen Kopf,
-diesmal aus Schwäbisch Gmünd, der auf den Namen Franz Josef Wetz hört. Dem Wunsche nach
+Sache unter stupend stupider Blindheit leiden kann. Nehmen wir beispielhaft einen anderen derer,
+diesmal in Schwäbisch Gmünd sitzend und auf den Namen Franz Josef Wetz hörend. Dem Wunsche nach
 in Blumenbergs Geiste schreibt er:
 
 > Genaugenommen setzt Hans Blumenberg von Anbeginn deren Untergang voraus, denn zu sagen,
@@ -88,20 +88,20 @@ Doch fühlt er sich nach diesem gewagten Sturz von Mythos, Metaphysik und Religi
  Selbststurz fähig?
 
 > Ohne Religion und Metaphysik aber stellt der Tod kein Geheimnis mehr dar. Statt Vollendung des
- > Lebens zu sein, bezeichnet er nun dessen endgültige Beendigung.
- >
- > -> *51*
+> Lebens zu sein, bezeichnet er nun dessen endgültige Beendigung.
+>
+> -> *51*
 
 _Modernität ist Perspektivität_. Und aus des Wetz' Perspektive ist das Geheimnis gelüftet,
- das Mythos und Religion und Metaphysik, darum wissend, nur zu überdecken suchten.
+ welches Mythos und Religion und Metaphysik, darum wissend, nur zu überdecken gesucht hatten.
  Dabei war so wenig Geheimnis, was noch heute Geheimnis ist. Oder ist dies noch so sehr,
- wie es ehedem eines war. Entweder ließt Wetz Blumenberg falsch, oder er hätte gut daran getan
+ wie es ehedem eines war. Entweder ließt Wetz Blumenberg hier falsch, oder er hätte gut daran getan
  ihn falsch zu lesen. Denn die _übermächtige, gleichgültige Wirklichkeit aufzuheben_,
  sie zu bewältigen, zu nichts anderem waren auch Philosophie und Wissenschaft angetreten.
 
 > Wir können ohne die Wissenschaft nicht leben. Aber das ist selbst weithin eine Wirkung der Wissenschaft. Sie hat sich uns unentbehrlich gemacht.
- >
- > -> Blumenberg: *Die Legitimität der Neuzeit*, Frankfurt am Main, Erneuerte Ausgabe, 1. Aufl., 1996, *265*
+>
+> -> Blumenberg: *Die Legitimität der Neuzeit*, Frankfurt am Main, Erneuerte Ausgabe, 1. Aufl., 1996, *265*
 
 Kultur ist das Mittel zur Selbstbehauptung gegen den _Absolutismus der Wirklichkeit_.
  Und zur dieser
@@ -110,9 +110,9 @@ Kultur ist das Mittel zur Selbstbehauptung gegen den _Absolutismus der Wirklichk
 >
 > -> Barbara Merker: *Bedürfnis nach Bedeutsamkeit. Zwischen Lebenswelt und Absolutismus der Wirklichkeit*, in: *Kunst des Überlebens*, 68-98, hier: *82, Fußnote 25*
  
-Die Wissenschaft und ihr theoretisch-methodisches Arsenal ist nicht weniger kontingent
+Die Wissenschaft und ihr theoretisch-methodisches Arsenal ist nicht weniger kontingent,
 als die Verfahren ihrer Vorgänger es je waren. Auch sie entlarvt sich als _lebensdienliche
-Fiktion_, oder dürfte doch zumindest nicht mehr, als dies behaupten. Und muß es trotzdem.
+Fiktion_ oder dürfte doch zumindest nicht mehr, als dies behaupten. – Und muß es trotzdem.
 Denn würde das Universalsubjekt sich nicht widersetzen, würde Wetz die Kontingenz der eigenen
 Methoden anerkennen, triebe ihn dies ins Paradoxe. Wäre die Kritik nach theoretisch-wissenschaftlicher
 Methodik so kontingent, wie sie es in kritischer Analyse Mythos, Religion und Metaphysik nachgewiesen hat,
@@ -121,8 +121,8 @@ so unsicher wie ihre Unterstellung von Unsicherheit. „Kann sein. Oder auch nic
 
 # IV
 
-Eine Lösung wäre die _Destruktion homogener Selbstbilder_; als nächst konsequenter Schritt
-der Verunsicherung von Identität des Verlernens von Identitätsbildungskompetenz durch eine andere,
+Eine Lösung wäre die _Destruktion homogener Selbstbilder_. Als nächst konsequenter Schritt
+der Verunsicherung von Identität, folgte das Verlernen von Identitätsbildungskompetenz durch eine andere,
 mir zugegebenermaßen unbekannte Kompetenz, die ich nur anzudeuten versuchen kann:
 Perspektivität nicht nur auf die betrachteten Gegenstände zu beschränken, sondern auf
 den Betrachter auszuweiten. Ich könnte als philosophisch vertreten, was ich psychologisch entlarve,
