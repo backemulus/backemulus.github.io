@@ -180,8 +180,8 @@ td, th{ padding: 0; }
        url("../fonts/LinBiolinum_Rah.ttf") format("truetype"); }
        
 @font-face {font-family: "LinLibertine";
-   src:url("../fonts/LinLibertine_R.woff") format("woff"),
-       url("../fonts/LinLibertine_Rah.ttf") format("truetype"); }
+   src:url("../fonts/LinLibertine_DR.woff") format("woff"),
+       url("../fonts/LinLibertine_DRah.ttf") format("truetype"); }
 
 html {
     height: 100%;
