@@ -9,7 +9,7 @@
     "title": "backenmulus",
     "description": "Philosophische Ligaturen",
     "logo": "/images/mulus.jpg",
-    "cover": "/images/mulusg.jpg",
+    "cover": "",
     "postsPerPage": "10",
     "disqus": "bterrier"
   },
