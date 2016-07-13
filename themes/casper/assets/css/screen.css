@@ -880,14 +880,14 @@ body.nav-opened .nav {
     margin: 10px 0 10px 0;
     font-size: 5rem;
     font-weight: 500;
-    letter-spacing: 0.05rem;
+    letter-spacing: 0.03rem;
     font-family: "LinLibertine";
     color: #786859;
 }
 
 .page-description {
     margin: 0;
-    font-size: 2.5rem;
+    font-size: 2.4rem;
     line-height: 1.5em;
     font-weight: 500;
     font-family: "LinLibertine";
