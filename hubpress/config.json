@@ -8,7 +8,7 @@
   "site": {
     "title": "SCIENTIÆ MULORUM",
     "description": "Philosophie in Ligaturen",
-    "logo": "/images/ae.png",
+    "logo": "/images/aed.png",
     "cover": "/images/mulusg.jpg",
     "postsPerPage": "10",
     "disqus": "bterrier"
