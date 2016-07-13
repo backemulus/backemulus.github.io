@@ -882,7 +882,7 @@ body.nav-opened .nav {
     font-weight: 400;
     font-family: "Merriweather", serif;
     letter-spacing: 0.01rem;
-    color: #786859;
+    color: rgba(120,104,89,0.8);
 }
 
 .no-cover.main-header {
