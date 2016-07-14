@@ -217,7 +217,7 @@ h4, h5, h6 {
     -webkit-font-feature-settings: 'dlig' 1, 'liga' 1, 'lnum' 1, 'kern' 1;
     -moz-font-feature-settings: 'dlig' 1, 'liga' 1, 'lnum' 1, 'kern' 1;
     -o-font-feature-settings: 'dlig' 1, 'liga' 1, 'lnum' 1, 'kern' 1;
-    color: #786859;
+    color: #584f47;
     line-height: 1.15em;
     margin: 0 0 0.4em 0;
     font-family: "LinBiolinum";
@@ -252,12 +252,12 @@ h6 {
 }
 
 a {
-    color: #786859;
+    color: #584f47;
    
 }
 
 a:hover {
-    color: #38312a;
+    color: #786859;
 }
 
 p, ul, ol, dl {
@@ -317,7 +317,7 @@ blockquote {
     box-sizing: border-box;
     margin: 1.75em 0 1.75em -2.2em;
     padding: 0 0 0 1.75em;
-    border-left: #4A4A4A 0.4em solid;
+    border-left: #786859 0.4em solid;
 }
 
 blockquote p {
