@@ -180,8 +180,21 @@ td, th{ padding: 0; }
        url("../fonts/LinBiolinum_Rah.ttf") format("truetype"); }
        
 @font-face {font-family: "LinLibertine";
-   src:url("../fonts/LinLibertine_DR.woff") format("woff"),
-       url("../fonts/LinLibertine_DRah.ttf") format("truetype"); }
+   src:url("../fonts/LinLibertine_R.woff") format("woff"),
+       url("../fonts/LinLibertine_Rah.ttf") format("truetype"); }
+@font-face {font-family: "LinLibertine";
+   src:url("../fonts/LinLibertine_RI.woff") format("woff"),
+       url("../fonts/LinLibertine_RIah.ttf") format("truetype");
+       font-style: italic; }
+@font-face {font-family: "LinLibertine";
+   src:url("../fonts/LinLibertine_RB.woff") format("woff"),
+       url("../fonts/LinLibertine_RBah.ttf") format("truetype");
+       font-weight: bold; }
+@font-face {font-family: "LinLibertine";
+   src:url("../fonts/LinLibertine_RBI.woff") format("woff"),
+       url("../fonts/LinLibertine_RBIah.ttf") format("truetype");
+       font-weight: bold;
+       font-style: italic; }
 
 html {
     height: 100%;
