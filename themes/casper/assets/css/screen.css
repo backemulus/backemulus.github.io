@@ -208,7 +208,7 @@ body {
     max-height: 100%;
     font-family: "LinLibertine";
     letter-spacing: 0.01rem;
-    font-size: 1.8rem;
+    font-size: 2.0rem;
     line-height: 1.75em;
     color: #3A4145;
     -webkit-font-feature-settings: 'kern' 1;
@@ -547,7 +547,7 @@ body.nav-opened .site-wrapper {
 
 .main-nav a {
     text-decoration: none;
-    font-family: 'LinLibertine';
+    font-family: 'LinBiolinum';
 }
 
 /* Navigation */
@@ -722,7 +722,7 @@ body.nav-opened .nav {
     color: #111 !important; /* Overides `.nav a:link, .nav a:visited` colour */
     text-align: center;
     font-size: 12px;
-    font-family: "LinLibertine";
+    font-family: "LinBiolinum";
     text-transform: uppercase;
     text-decoration: none;
     line-height: 35px;
@@ -985,7 +985,7 @@ body:not(.post-template) .post-title {
 .post-meta {
     display: block;
     margin: 1.75rem 0 0 0;
-    font-family: "LinLibertine";
+    font-family: "LinBiolnum";
     font-size: 1.5rem;
     line-height: 2.2rem;
     color: #9EABB3;
