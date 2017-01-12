@@ -10,7 +10,7 @@ Beim kürzlichen besuch der Alten Nationalgalerie (Berlin) fiel mir das bild _L�
 
 [[img-loewe_traenke]]
 .Wilhelm Kuhnert: _Löwe an der Tränke_, um 1907–1911
-image::loewe_traenke.jpg[Löwe an der Tränke, 800]
+image::loewe_traenke.jpg[Löwe an der Tränke, 700]
 
 ---
 
@@ -47,7 +47,7 @@ In diesem zusammenhang könnten dann überlegungen Blumenbergs zu James Joyce’
 
 [[img-blumenberg_ueber_joyce_ulysses]]
 .Hans Blumenberg: _Arbeit am Mythos_, Frankfurt a. M., 5. aufl., 1990 [1979], 93
-image::blumenberg_ueber_joyce_ulysses.jpg[Blumenberg über Joyce Ulysses, 800]
+image::blumenberg_ueber_joyce_ulysses.jpg[Blumenberg über Joyce Ulysses, 700]
 
 ---
 
