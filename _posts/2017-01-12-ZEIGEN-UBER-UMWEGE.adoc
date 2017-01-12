@@ -47,7 +47,7 @@ In diesem zusammenhang könnten dann überlegungen Blumenbergs zu James Joyce’
 
 [[img-blumenberg_ueber_joyce_ulysses]]
 .Hans Blumenberg: _Arbeit am Mythos_, Frankfurt a. M., 5. aufl., 1990 [1979], 93
-image::blumenberg_ueber_joyce_ulysses.jpg[200]
+image::blumenberg_ueber_joyce_ulysses.jpg[j, 200]
 
 ---
 
