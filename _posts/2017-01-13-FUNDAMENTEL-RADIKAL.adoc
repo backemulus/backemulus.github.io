@@ -4,13 +4,13 @@
 
 UNTERSCHEIDUNGSVORSCHLAG FÜR UNIVERSALTHEORIEN
 
-Zur beschreibung einer ›radikal-fundamentalen‹ differenz von universaltheorien empfehle ich die unterscheidung radikal/fundamental; konkret: die unterscheidung von fundamental- und radikaltheorie. 
+Zur erfassung einer ›radikal-fundamentalen‹ differenz zwischen universaltheorien, empfehle ich die unterscheidung radikal/fundamental; konkret: die unterscheidung von fundamental- und radikaltheorie. 
 
 Diese unterscheidung orientiert sich an der grund-boden-metaphorik, innerhalb welcher der metaphorologe zwei unterschiedliche (wenn auch selten unterschiedene) tendenzen entdeckt: 
 
 > Die Metaphorik des Bodens, in dem alles wurzelt, was wächst und fruchtet und nährt, _und_ die des Grundes, auf dem alles geht und steht, gebaut und errichtet werden muß, was Dauer und Festigkeit haben soll, scheinen sich nicht leicht imaginativ zu vereinbaren: die Wurzel erfordert Durchdringbarkeit und Durchlässigkeit des Bodens, um Baum und Pflanze ins Licht aufsteigen zu lassen, von dem sie erst recht ihr Leben nehmen; des menschliche Gebäude verlangt im Gegenteil afür seine Fundamente die felsennahe Dichte und Unlösbarkeit dessen, worauf sie beruhen. 
 
-> Blumenberg: Sorge, 98
+> —Blumenberg: _Sorge_, 98
 
 Dem grundlegenden forschungsverständnis der fundamentaltheorie ist die grundmetapher impliziert: Wissenschaftliches wissen wird begründet und wissenschaft ist nur möglich, wo »sicherer«, letzter, das heißt auch immer: _ununtergrabbarer_ grund (_lat._ _fundamentum_) ist. Problematisierung des grund/fundaments bedeutet dann, problematisieren, was mögliches fundament ist, aber nie: das letztliche fundament selbst zum problem machen (würde es doch gerade dadurch als letzter/erster grund disqualifiziert). Sie ist in dem sinne konstruktiv, daß wissenschaft von grund auf gebaut (und überhaupt aufgebaut) wird und mindestens im ideal fertigstellbar ist; variationen, modifikationen und renovationen bleiben vielleicht möglich und nötig, aber aufgabe und zweck ist finalität. 
 
@@ -24,4 +24,4 @@ ZUSATZ I: Methodischer Konstruktivismus
 
 LITERATUR
 
-Blumenberg, Hans: _Die Sorge geht über den Fluß_
+Blumenberg, Hans: _Die Sorge geht über den Fluß_ (Bibliothek Suhrkamp 3000), Frankfurt a.M., 1987
