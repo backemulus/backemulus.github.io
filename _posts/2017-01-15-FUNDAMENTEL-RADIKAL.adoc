@@ -1,6 +1,6 @@
 # FUNDAMENTEL / RADIKAL
-:hp-tags: boden, grund, fundamental, metapher, universaltheorie, radikal, theorie, 
-:published_at: 2017-01-13
+:hp-tags: grund, fundamental, metaphorik, universaltheorie, radikal, theorie, 
+:published_at: 2017-01-15
 
 EIN UNTERSCHEIDUNGSVORSCHLAG
 
