@@ -238,7 +238,7 @@ h4, h5, h6 {
 }
 
 h1 {
-    font-size: 1rem;
+    font-size: 3rem;
     letter-spacing: -2px;
     text-indent: -3px;
 }
@@ -265,12 +265,12 @@ h6 {
 }
 
 a {
-    color: #584f47;
+    color: #000980;
    
 }
 
 a:hover {
-    color: #786859;
+    color: #000980;
 }
 
 p, ul, ol, dl {
@@ -336,6 +336,7 @@ blockquote {
 blockquote p {
     margin: 0.8em 0;
     font-family: "LinBiolinum";
+    color: #000980;
 }
 
 blockquote small {
