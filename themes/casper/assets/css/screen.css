@@ -343,7 +343,7 @@ blockquote small {
     display: inline-block;
     margin: 0.8em 0 0.8em 1.5em;
     font-size: 0.9em;
-    color: #CCC;
+    color: #898ed2;
 }
 
 blockquote small:before { content: "\2014 \00A0"; }
