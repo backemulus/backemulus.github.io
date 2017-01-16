@@ -271,7 +271,7 @@ a {
 
 a:hover {
     color: #00065a;
-    font-style: italic;
+    background-color: #898ed2;
 }
 
 p, ul, ol, dl {
@@ -337,13 +337,14 @@ blockquote {
 blockquote p {
     margin: 0.8em 0;
     color: #00065a;
+   background-color: #898ed2;
 }
 
 blockquote small {
     display: inline-block;
     margin: 0.8em 0 0.8em 1.5em;
     font-size: 0.9em;
-    color: #898ed2;
+    color: #CCC;
 }
 
 blockquote small:before { content: "\2014 \00A0"; }
