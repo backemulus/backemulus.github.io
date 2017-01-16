@@ -209,7 +209,7 @@ body {
     font-family: "LinLibertine";
     letter-spacing: 0.01rem;
     font-size: 1.8rem;
-    line-height: 1.55em;
+    line-height: 1.65em;
     color: #3A4145;
     -webkit-font-feature-settings: 'kern' 1;
     -moz-font-feature-settings: 'kern' 1;
@@ -238,7 +238,7 @@ h4, h5, h6 {
 }
 
 h1 {
-    font-size: 5rem;
+    font-size: 4rem;
     letter-spacing: -2px;
     text-indent: -3px;
 }
@@ -335,7 +335,7 @@ blockquote {
 
 blockquote p {
     margin: 0.8em 0;
-    font-style: italic;
+  
 }
 
 blockquote small {
