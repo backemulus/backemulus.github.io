@@ -16,14 +16,14 @@ _Die folgende untersuchungsskizze ist versuch und aufruf. Versuch eine vermutung
 ++++
 
 :::
-Vgl fn. 1.^1^
+Vgl <<bookmark-a>>.
 
 ---
 
 
 DER ATHEIST ALS ORIGINALGENIE
 
-Die erzählung des originalgenies ist falsch. Das heißt: die erzählung des originalgenies ist unzureichend und somit – ohne umständliche erhaltungstechniken – unhaltbar geworden. Sie funktionierte als verdunklungsmechanismus eines problems – also der ausschaltung blinder flecken, um andere probleme beobachten und lösen zu können. Das ist nicht unbedingt schlecht – kann es mit der zeit aber überflüssig und störend werden. Die behauptung hier ist: daß das beim originalgenie längst der fall ist. Wir kennen zu viele ungeniöse originalitäten, zu viele geniale kopien, aber vor allem: wir kennen zu viele genies und sind mit in vielen fällen selbst welche. Unsere lebensläufe strotzen vor beweisen,footnote die keinen zweifel lassen
+Die erzählung des originalgenies ist falsch. Das heißt: die erzählung des originalgenies ist unzureichend und somit – ohne umständliche erhaltungstechniken – unhaltbar geworden. Sie funktionierte als verdunklungsmechanismus eines problems – also der ausschaltung blinder flecken, um andere probleme beobachten und lösen zu können. Das ist nicht unbedingt schlecht – kann es mit der zeit aber überflüssig und störend werden. Die behauptung hier ist: daß das beim originalgenie längst der fall ist. Wir kennen zu viele ungeniöse originalitäten, zu viele geniale kopien, aber vor allem: wir kennen zu viele genies und sind mit in vielen fällen selbst welche. Unsere lebensläufe strotzen vor beweisen,<<bookmark-b>> die keinen zweifel lassen
 
 ____
 […] dass ich ein besonderes Genie bin, zumal ich nicht alles aufgezählt habe. Das Besondere daran ist nun, dass das alles nichts Besonderes ist. Das leuchtet ein. Denn es ist klar: Das Besondere daran ist, dass so etwas für alle anderen Menschen in Europa und den Ländern der sog. Ersten und Zweiten Welt auch gilt. Genies überall. Millionen! Viele Millionen.
@@ -65,4 +65,14 @@ Es gab keinen grund mehr, die fragen der theologie zwingend für stellbar zu hal
 EPILOG
 
 Es gibt noch theologie, es gibt noch religion. Verantwortlich vermute ich eine andere innovation, die etwas später die neue zentralveranstaltung ›aufklärung‹ ärgern sollte: Die fraglichkeit der beantwortbarkeit. Sie ist die einführung der kontingenzreflexion auf »aufklärung« und ermöglicht einen neuen raum für religiöse festigung. Vielleicht, wirklich nur vielleicht, wäre hiermit die zunahme religiöser ausübung sowie die veränderungen dieser ausübung zu erkllären.
+
+---
+
+[[bookmark-a, {1}]]\{1} Die frage von http://twitter.com/FreihandDenker[@FreihandDenker] bezog sich auf die folge  »Anbieterwechsel« der serie _Tatortreiniger_. Ein auszug meiner reaktion:
+
+++++
+<blockquote class="twitter-tweet" data-lang="de"><p lang="de" dir="ltr"><a href="https://twitter.com/FreihandDenker">@FreihandDenker</a> &gt;&gt;die verwendung zweier glaubensbegriffe als einen einzigen zu verpflichten. Gab es erst nur glauben als verpflichtung,&gt;&gt;</p>&mdash; Taschenkulturalist (@bertrandterrier) <a href="https://twitter.com/bertrandterrier/status/819993104430333952">13. Januar 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+++++
+
+[[bookmark-b, {2}]]\{2} Beispielhaft der von Kusanowsky angeführte lebenslauf []:
 
