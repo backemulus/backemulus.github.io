@@ -1,12 +1,16 @@
 # DER TEXT ALS AUTOR
-:hp-tags: autor, text,
+:hp-tags: autor, forschung, originalgenie, text, wissenschaft
 :published_at: 2017-01-23
 
 WEITERER TEXT ÜBER DAS ORIGINALGENIE
 
+____
+
 »Mittelalterliche Textgepflogenheiten, die das Buch selbst wie einen Autor sprechen lassen, haben den Buchdruck nicht überlebt. Es wäre nicht ganz abwegig, sie wiederaufzugreifen, denn schließlich stammt, jedenfalls wo es ›wissenschaftlich‹ zugeht, nur sehr weniges, was in einem Buch zu lesen ist, von dem Autor selbst. «
 
 —Luhmann, WdG, 11 fn. 1
+
+____
 
 
 Den konzipierenden, kritzelnden, tippenden, publizierenden menschen als ›autor‹ des folgetextes zu konzipieren mag sinn machen oder nicht. Zentral ist sie für die rechtliche behandlung von texterzeugnissen (»geistigem eigentum«) zur zu- und absprechung von publikationsrechten und der sicherung der gratifikation bestimmter (nicht-agraischer und nicht-handwerklicher) berufsgruppen. Aber die autoridentifikationstechnik schwächelt – plagiatsjäger mögen die ideologie des originalautors noch zu retten versuchen, aber die bedrohung der wissenschaftlich-künstlerischen professoralen (alles plagiatore) erzwingt eine diskussion über das plagiat, die unterscheidungen wie original/kopie/plagiat zwar zu sichern versucht, gerade dieses aber nicht mehr vermag. Das liegt vor allem an neuen schreib- und publikationstechniken, wie sie für konkrete textproduktion unerläßlich, oder doch mindestens ökonomisch profitabel geworden sind: Man denke an zitation und verweis in der wissenschaft, mash-up in der kunst – allgemein: der intertextualität. 
@@ -17,6 +21,8 @@ Ich skizziere eine kurze genialogie des originalautors durch stützung des origi
 
 Angemerkt: Daß sich die bereiche trennen lassen und ich fordere, sie sollten für die versachlichung auch getrennt werden, heißt nicht, sie wären vollkommen lösbar. 
 
+---
+
 KURZE GENEALOGIE
 
 Um 1800 wird die gratifikatorische absicherung bestimmter berufe notwendig, um ihre ausführung gesellschaftlich festigen zu können. Zu diesen gehören schriftsteller und journalisten, philosphen und wissenschaftler. {} Dies hat mehrere gründe: die zunehmende säkularisierung und damit die nötigung zur staatlichen institutionalisierung von wissenschaft, die … des mäzentums und einer damit einhergehenden bedrohung einer beruflichen beschäftigung. Nachdem wissenschaft, literatur, jounralismus in produktion und konsumtion wahrscheinlich geworden waren, war der verzicht recht unwahrscheinlich – viel zu viel hing davon ab.
@@ -25,6 +31,7 @@ Dort liegt auch der ursprung der originalgeniösen ideologie verborgen – sie e
 
 Das recht erfordert nicht nur eine unterscheidung von original/kopie, sondern zugleich eine personenbezogene unterscheidung von originalautor/kopierer. Eine unterscheidung die für die zunehmende differenzierung und komplexe strukturierung wissenschaftlicher textproduktion allerdings unhaltbar ist, allerdings übernommen werden _muß_, soll die gratifikation einzelner personen gewährleistet werden. (Die gratifikation einzelner menschen ist weder rechtlich noch wissenschaftlich nötig; selbst wenn personen häufig menschen entsprechen.) Nicht anders verhält es sich für die publizistik, die für weite verbreitung kopien benötigt. dies ist allerdings insofern kein problem, als die kopie nun weiter in legitimierte/nicht-legitimierte kopie unterscheidbar ist; dies wird in der wissenschaft als zitat/plagiat ausinterpretiert, in der publizistik als (bezahlte und vertraglich festgelegte) werkpublikation/(unbezahlte/unerlaubte) raubkopie. Während die wissenschaft die eigene reglementierung zitat/plagiat selbstständig durchsetzen kann (ich komme darauf zurück), benötigt die publizistik den rückbezug auf das recht: hier wird zur regelung von vertragsverhältnissen die konzeption des geistigen eigentums etabliert; ein genialer streich {}, der zugleich den bezug originalautor-originalgenie expliziert, während er diesen mit den bereits bestehenden mitteln der rechtlichen eigentumsregelung analogisiert. Dadurch müssen keine vollständig neuen rechtstechniken entwickelt, sondern nur alte mittel modifiziert werden.
 
+---
 
 BÜROKRATIE
 
@@ -53,10 +60,10 @@ Meine vermutung: dies liegt an der stärke bürokratischer organisation. Ihre fo
 
 
 
-——————
 
 
 
+---
 
  
 Daß das problem gerade in der kunst so zentral ist, liegt daran, an verarbeitungstechniken, welche die wissenschaft sich großteilig untersagt, für welche in der kunst ein freiraum geschaffen wurde: Der aneignung und verarbeitung eines themas durch variierte durchführung; die unterscheidung original/kopie probiert die kunst durch anwendung. (Gerade deshalb gibt es für Kusanowsky auch einen unterschied zwischen dem »spotler« und dem »verbrecher«. Beide nutzen die kopie für künstlerischen versuche. Jedoch deckt der sportler seine kopie als solche kenntlich macht und zugibt, während der verbrecher zugunsten seiner ökonomsichen verwertungsinteressen die kopie nicht als solche zugibt. (Deshalb ist letzteres auch keine künstlerischer verarbeitung der kopie, sondern die kopiertechnik ein mittel wirtschaftlicher profitsteigerung.)
@@ -97,8 +104,11 @@ Ich meine »fortschritt« nicht ideologisch, weshalb ich lieber von progression 
 
 Der wichtigkeit der subjektentlastung durch adressierbarkeit hat meines wissens nach @ReisAgainst innoviert. Zu einem recht lahmen vortrag zur geschichte des kapitalismus in einem marxistisch-kommunistischen kontext wurden da »ausnutzen« und »abhängigkeit« des arbeiters durch und von den kapitalistischen betriebsbesitzern der »selbstständigkeit« des bauern mit eigenem grundstück gegenübergestellt. @ReisAgainst machte den (sehr intelligenten) punkt, daß nur der arbeiter über eine adresse für beschwerde und forderung habe, während dem bauer bei dürre ein streik nichts helfe. Zu der bedeutung von adressierbarkeit hoffe ich auf einen text von ihm; da scheint mir fiel interessantes dran zu sein. Es ließe sich dann auch fragen, ob nicht die adressierbarkeit von allem an jeden ein problem der modernen bürokratie ist. Denn die totalität der adressierbarkeit führt doch gerade dazu, daß jeder angesprochene schlicht auf andere adressen verweis, bis man aufgibt oder mit dem verweis auf die bürokratischen verfahren selbst abserviert wird. Vgl. hierzu auch Arendt [MuG: 80]:
 
+____
 Büroktatie ist diejenige Staatsform, in welcher es niemanden mehr gibt, der Macht ausübt; und wo alle gleichermaßen ohnmächtig sind, haben wir eine Tyrannis ohne Tyrannen. 
+____
 
+---
 
 LITERATUR
 
