@@ -85,7 +85,7 @@ Meine vermutung: dies liegt an der stärke bürokratischer organisation. Ihre fo
 ---
 
  
-[[bookmark-f1, {1}]]/{1} Daß das problem gerade in der kunst so zentral ist, liegt daran, an verarbeitungstechniken, welche die wissenschaft sich großteilig untersagt, für welche in der kunst ein freiraum geschaffen wurde: Der aneignung und verarbeitung eines themas durch variierte durchführung; die unterscheidung original/kopie probiert die kunst durch anwendung. (Gerade deshalb gibt es für Kusanowsky auch einen unterschied zwischen dem »spotler« und dem »verbrecher«. Beide nutzen die kopie für künstlerischen versuche. Jedoch deckt der sportler seine kopie als solche kenntlich macht und zugibt, während der verbrecher zugunsten seiner ökonomsichen verwertungsinteressen die kopie nicht als solche zugibt. (Deshalb ist letzteres auch keine künstlerischer verarbeitung der kopie, sondern die kopiertechnik ein mittel wirtschaftlicher profitsteigerung.)
+[[bookmark-f1, {1}]]\{1} Daß das problem gerade in der kunst so zentral ist, liegt daran, an verarbeitungstechniken, welche die wissenschaft sich großteilig untersagt, für welche in der kunst ein freiraum geschaffen wurde: Der aneignung und verarbeitung eines themas durch variierte durchführung; die unterscheidung original/kopie probiert die kunst durch anwendung. (Gerade deshalb gibt es für Kusanowsky auch einen unterschied zwischen dem »spotler« und dem »verbrecher«. Beide nutzen die kopie für künstlerischen versuche. Jedoch deckt der sportler seine kopie als solche kenntlich macht und zugibt, während der verbrecher zugunsten seiner ökonomsichen verwertungsinteressen die kopie nicht als solche zugibt. (Deshalb ist letzteres auch keine künstlerischer verarbeitung der kopie, sondern die kopiertechnik ein mittel wirtschaftlicher profitsteigerung.)
 
 ____
 Beltracchi konnte mit seiner Methode die Struktur der Kunst nicht beeindrucken, Landis dagegen konnte mit der selben Methode für die Beurteilung von Kunst eine Neuerung vorschlagen.
@@ -137,4 +137,10 @@ ____
 
 LITERATUR
 
-Luhmann, Niklas: Wissenschaft der Gesellschaft (stw 1001), Frankfurt/M, ^7^2015 [1990]
+Feyerabend, Paul: _Killing Time. Autobiography_, Chicago und London, 1995
+
+Kusanowsky, Klaus:  https://differentia.wordpress.com/2016/08/10/kunst-sport-und-verbrechen/[»Über Kunst, Sport und Verbrechen«], auf: http://differentia.wordpress.com[_differentia.com_], stand: 21.01.2017
+
+Luhmann, Niklas: _Wissenschaft der Gesellschaft_ [GdW] (stw 1001), Frankfurt/M, ^7^2015 [1990]
+
+Stach, Rainer: _Kafka. Die frühen Jahre_, Frankfurt/M, ^1^2016 [2014]
