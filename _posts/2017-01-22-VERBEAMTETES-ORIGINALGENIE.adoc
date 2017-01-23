@@ -10,7 +10,7 @@ _Zweiter text zu einer reihe vielperspektivischer beschäftigung mit der konzept
 
 ____
 
-Das Wörtchen ›echt‹ war das bedeutsamste und höchstgeschätzte Adjektiv, das der _Kunstwart_ zu vergeben hatte: Echt sollte schlechterdings alles sein, vom Nationalcharakter […] über die Ausdruckssprache eines Kunstwerks […]bis hin zur echten, nämlich rein zweckmäßigen und _darum_ schönen Form eines Möbelstücks.
+Das Wörtchen ›echt‹ war das bedeutsamste und höchstgeschätzte Adjektiv, das der _Kunstwart_ zu vergeben hatte: Echt sollte schlechterdings alles sein, vom Nationalcharakter […] über die Ausdruckssprache eines Kunstwerks […] bis hin zur echten, nämlich rein zweckmäßigen und _darum_ schönen Form eines Möbelstücks.
 
 –Stach, _Kafka_, 241 f.
 ____
@@ -58,7 +58,7 @@ BÜROKRATIE
 
 Wie sich angedeutet haben mag, will ich zwischen forschung und wissenschaft unterscheiden, insofern wissenschaft bürokratische forschung meint. Letzteres wird dann in form von akademien (instiutionalisierte wissenschaft) und universitäten (lehre und forschung verbindende akademien) aufgeteilt <<bookmark-f8>>. Das komplexe auswirkungsverhältnis von forschung-lehre-institution scheint mir selten in angemessener weise behandelt zu werden <<bookmark-f9>>.
 
-Dieser umstand mag daran liegen, daß die forschung längst totalbürokratisiert es, das heißt, es kaum noch unbürokratisches forschen gibt; weder privatgelehrte spielen für die wissenschaft keine bedeutende rolle mehr {}; konzern- und firmengebundene forschung sowie populärwissenschaft haben sich längst selbst disqualifiziert, indem ihre unabhängigkeitsideologie längst zerstört wurde. Deshalb wird allenthalben gemeint, forschung sei und sei nur, was an universitäten gemacht werde.{} Selten war progression so konservativ.
+Dieser umstand mag daran liegen, daß die forschung längst totalbürokratisiert es, das heißt, es kaum noch unbürokratisches forschen gibt; weder privatgelehrte spielen für die wissenschaft bedeutende rolle <<bookmark-f10>>; konzern- und firmengebundene forschung sowie populärwissenschaft haben sich längst selbst disqualifiziert, indem ihre unabhängigkeitsideologie längst zerstört wurde. Deshalb wird allenthalben gemeint, forschung sei und sei nur, was an universitäten gemacht werde.<<bookmark-f11>> Selten war progression so konservativ.
 
 ---
 
@@ -113,7 +113,7 @@ Auch maler, zeichner, steinhauer, etc., ja auch komponisten. Ob in den malerisch
 
 [[bookmark-f9, {9}]]\{9}Es ergibt sich der zwischenbereich des reinen zitats: Wer eine arbeit von William James abtippt, sie einreicht, die gesamte arbeit aber als zitat kenntlich macht, fällt durch das seminar, ohne wissenschaftlich exkommuniziert zu werden. Der fall erscheint uns so seltsam, weil er ein leerbereich ist, mit dem wir nichts anfangen können: er ist weder vollkommen abzulehnen, noch wäre er irgendwie gefordert. Daß dieses beispiel seltsam wirkt, sollte zur verblüffung und faszinatin anregen.)
 
-Es ist gar nicht unwahrscheinlich, daß ich einfach etwas nicht gelesen habe. Ich lasse mich dann gerne aufklären und trage das hier nach. (In die kommentare unten oder an http://twitter.com/bertrandterrier[@bertrandterrier].)
+[[bookmark-f11, {11}]]\{11}Es ist gar nicht unwahrscheinlich, daß ich einfach etwas nicht gelesen habe. Ich lasse mich dann gerne aufklären und trage das hier nach. (In die kommentare unten oder an http://twitter.com/bertrandterrier[@bertrandterrier].)
 
 
 
