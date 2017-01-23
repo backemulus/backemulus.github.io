@@ -64,7 +64,7 @@ Dieser umstand mag daran liegen, daß die forschung längst totalbürokratisiert
 
 Konservative progression.
 
-Obwohl meist übersehen, gibt es progressive konservation: Der bewahrungsvorsatz paßt sich neuen gegebenheiten an und ist bereit, prioritäten offen zu ordnen und problematisieren.{} Ebenso gibt es konservative progression: Veränderungen und neuerungen erhalten etablierte strukturen.{} Dies soll nicht einem »wirklichen fortschritt« gegenübergestellt werden – ich vertrete keinen naiven ideologierealismus. Auch konservative progression ermöglicht fortschritt; und daß sie als mittel gewählt wurde, läßt mutmaßen, daß gerade sie (geordnete) progression ermöglicht hat. {} Indiz ist die zeit des 17. bis ins frühe 20. jh. Selten hätte man die konversion von organisationsstrukturen bei gleichzeitiger veränderlich- und veränderbarkeit derer methoden, techniken und ergebnisse beobachten können. Hier wird von der flexibilität durch starrheit profitiert.
+Obwohl meist übersehen, gibt es progressive konservation: Der bewahrungsvorsatz paßt sich neuen gegebenheiten an und ist bereit, prioritäten offen zu ordnen und problematisieren.<<bookmark-f12>> Ebenso gibt es konservative progression: Veränderungen und neuerungen erhalten etablierte strukturen.{} Dies soll nicht einem »wirklichen fortschritt« gegenübergestellt werden – ich vertrete keinen naiven ideologierealismus. Auch konservative progression ermöglicht fortschritt; und daß sie als mittel gewählt wurde, läßt mutmaßen, daß gerade sie (geordnete) progression ermöglicht hat <<bookmark-f13>>. Indiz ist die zeit des 17. bis ins frühe 20. jh. Selten hätte man die konversion von organisationsstrukturen bei gleichzeitiger veränderlich- und veränderbarkeit derer methoden, techniken und ergebnisse beobachten können. Hier wird von der flexibilität durch starrheit profitiert.
 
 
 Meine vermutung: dies liegt an der stärke bürokratischer organisation. Ihre formen sind starr, aber inhaltsleer; wodurch sie sowohl der judenvernichtung, als auch der demokratieerhaltung dienen können. Dafür ist die entwicklung Deutschlands beispielhaft: Denn an den verfahren zur beurteilung der gegner von nationalsozialisten und den dann folgenden zur rechtssprechung über die verbrechen der nationalsozialisten hat sich nichts, aber natürlich auch alles verändert. Die rechtsverfahren als solche mußte nicht abgelöst, sondern nur modifiziert werden, also bestimmte schritte angepaßt werden. (adresse {})
@@ -122,9 +122,9 @@ Es ist gar nicht unwahrscheinlich, daß ich einfach etwas nicht gelesen habe. Ic
 
 [[bookmark-f11, {11}]]\{11} Dies führt zu den schmalhirnigsten äußerungen, welche einem manches mal zweifeln lassen, ob an universitäten nicht prinzipiell die intelligenz fehle, forschung zu machen. So erzählt mir ein freund, auf die frage, wer denn ein philosoph sei, habe ihm ein dozent geantwortet: Der, der einen philosophischen abschluß hat. Das ist doof und man hofft auf höheres denkvermögen bei medizinern und pharmazeuten, von denen das eigene leben abhängt.
 
-Interessant dazu der fall in  …, wo ein konservativer staat für die aufnahme syrischer flüchtlinge stimmt.
+[[bookmark-f12, {12}]] \{12} Interessant dazu der fall in den USA, wo der staat Utah gerade wegen den konservativität Mormonen für die aufnahme syrischer flüchtlinge sich einsetzt; vgl. http://vox.com[Vox]: https://www.youtube.com/watch?v=2OVMYUFWoaU[_Why Mormons identify with Syriens refugees_].
 
-So paradox das klingt, sieht man’s überall: Das grundgesetz ist die neuformulierung der biblischen gebote, die aufklärung ist säkularisierte theologie, 2016 ist 1933, etc. Dies heißt nicht, jede erklärung eines (vermeintlich) neuen phänomens durch ein altes sei prinzipiell schlecht und falsch. Es läßt sich jedoch eine selbstverpflichtete blindheit gegen neues beobachten.
+[[bookmark-f13, {13}]]\{13} So paradox das klingt, sieht man’s überall: Das grundgesetz ist die neuformulierung der biblischen gebote, die aufklärung ist säkularisierte theologie, 2016 ist 1933, etc. Dies heißt nicht, jede erklärung eines (vermeintlich) neuen phänomens durch ein altes sei prinzipiell schlecht und falsch. Es läßt sich jedoch eine selbstverpflichtete blindheit gegen neues beobachten:
 
 ---
 
@@ -159,3 +159,5 @@ Kusanowsky, Klaus:  https://differentia.wordpress.com/2016/08/10/kunst-sport-und
 Luhmann, Niklas: _Wissenschaft der Gesellschaft_ [GdW] (stw 1001), Frankfurt/M, ^7^2015 [1990]
 
 Stach, Rainer: _Kafka. Die frühen Jahre_, Frankfurt/M, ^1^2016 [2014]
+
+http://vox.com[Vox]: https://www.youtube.com/watch?v=2OVMYUFWoaU[Why Mormons identify with Syriens refugees], auf: http://youtube.com[YouTube], stand: 23.01.2017
