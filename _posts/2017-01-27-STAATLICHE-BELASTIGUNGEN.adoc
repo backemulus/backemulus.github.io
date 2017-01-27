@@ -4,7 +4,7 @@
 
 ÜBER BEDEUTUNG VON RECHT UND BÜROKRATIE
 
-_Den folgenden gedanken erfand ein gespräch mit_ http://twitter.com/adloquii[@adloquii]. _Das gespräch ist autor, die diskutanten sind konzipienten, der blogger ist tippse des textes._
+_Den folgenden gedanken erfand ein gespräch mit http://twitter.com/adloquii[@adloquii]. Das gespräch ist autor, die diskutanten sind konzipienten, der blogger ist tippse des textes._
 
 ---
 
@@ -29,7 +29,7 @@ ____
 
 [[bookmark-2, {2}]]\{2} Das ist verkürzt. Viele gesetze stammen nicht von der _iudikative_ und relativ wenige werden von ihr eingebracht oder abgeschafft. Die politik zu begreifen müßte wohl zwischen repräsentativer, diplomativer und iudikativer politik unterschieden werden. Die bedeutung letzterer schwindet durch zunehmende bürokratisierung einerseits, repräsentativer moralisierung andererseits; anders: die gesetze verlieren ihre priorität an vorschriften und werte – mit beidem kann bekanntlich recht willkürlich verfahren werden.
 
-[[bookmark-3, {3}]]\{3} Zu primitiver/komplexer kompensation vgl. http://www.reis.space/jekyll/update/2016/06/30/kompensation.html[_Kompensation_] von http://twitter.com/ReisAgainst[_@ReisAgainst_]. Etwas variiert kann dann primitive kompensation _einschränkung des leistungsbereichs zur erhaltung der leistungmenge_ heißen.
+[[bookmark-3, {3}]]\{3} Zu primitiver/komplexer kompensation vgl. http://www.reis.space/jekyll/update/2016/06/30/kompensation.html[_Kompensation_] von http://twitter.com/ReisAgainst[@ReisAgainst]. Etwas variiert kann dann primitive kompensation _einschränkung des leistungsbereichs zur erhaltung der leistungmenge_ heißen.
 
 [[bookmark-4, {4}]]\{4} Deshalb ist es nicht nur nutzlos staffällige immigranten und asylanten abzuschieben, sondern schädlich: es untergräbt die funktionsfähigkeit der rechtssprechung und ersetzt es gleich durch bürokratie. Die ist funktionstüchtig – fraglos. Ein immunsystem, daß ein organimplantat abstößt aber auch.
 
@@ -42,6 +42,6 @@ LITERATUR
 
 Arendt, Hannah: _Macht und Gewalt_, aus dem Engl. übers. v. Gisela Uellenberg, München/Berlin/Zürich, ^25^2015 [_On Violence_, 1970] 
 
-http://twitter.com//ReisAgainst[_@ReisAgainst_]: http://www.reis.space/jekyll/update/2016/06/30/kompensation.html[Kompensation und poetisches Lesen], auf: http://reis.space[_Critical Otter Studies_], stand: 27.01.2017
+http://twitter.com//ReisAgainst[@ReisAgainst]: http://www.reis.space/jekyll/update/2016/06/30/kompensation.html[Kompensation und poetisches Lesen], auf: http://reis.space[_Critical Otter Studies_], stand: 27.01.2017
 
 _Sternstunde Philosophie_: http://www.srf.ch/play/tv/sternstunde-philosophie/video/david-graeber-wir-buerokratisieren-uns-zu-tode?id=520813b0-602e-47de-8da2-1529e197fad7[Wir bürokratisieren uns zu Tode], auf: http://www.srf.ch/play/tv[srf.ch], stand: 27.01.2017
