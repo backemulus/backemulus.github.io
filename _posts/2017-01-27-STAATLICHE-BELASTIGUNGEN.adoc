@@ -1,5 +1,5 @@
 # STAATLICHE BELÄSTIGUNGEN
-:hp-tag: bürokratie, politik, recht
+:hp-tag: bürokratie, politik, recht,
 :published_at: 2017-01-27
 
 ÜBER BEDEUTUNG VON RECHT UND BÜROKRATIE
