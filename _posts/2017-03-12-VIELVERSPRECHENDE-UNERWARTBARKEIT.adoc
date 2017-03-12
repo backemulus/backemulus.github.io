@@ -2,48 +2,80 @@
 :hp-tags: intelligenz, iq, 
 :published_at: 2017-03-12
 
-DEFINITION EINES ANALYTISCH BRAUCHBAREN INTELLIGENZBEGRIFFS
+DEFINITION EINES ANALYTISCH BRAUCHBAREN INTELLIGENZBEGRIFFS 
+
+
 
 _Intelligenz ist die produktion vielversprechender unerwartbarkeiten._ 
 
 ---
 
-Intelligenz und handlung
+INTELLIGENZ UND HANDLUNG
 
-Die _produktion vielversprechender unerwartbarkeiten_ beschränkt sich weder auf die schöpfungskraft von geistern _(genies)_ noch auf’s funzelpotential von neuronenmassen _(gehirne)_. Intelligent kann alles sein, was sinnvoll als ›subjekt‹ einer handlung beschreib- bzw. beobachtbar ist: menschen, personen, bücher, organisationen, roboter, tiere, etc.<<bookmark-1>> Das ist nur unverständlich, wenn eine handlung durch das subjekt, statt umgekehrt ein subjekt durch die handlung konstituiert wird.\footnote{Gerade deshalb bleiben die meisten pragmatismen nur modifikationen mentalisitischer programme, nämlich mittel-zweck zentrierende subjektivismen.} Was als handlung bestimmbar ist oder bestimmt werden soll, bleibt prinzipiell diskutabel und (gesellschaftlich) veränderbar. Noch vor ein paar hundert jahren mußten sich autoren für das sprechen ihrer figuren verantworten – heute ist es eine trivialität, daß ein autor nicht mit den aussagen oder implikationen seines textes verwechselt werden darf.\footnote{Wobei dies stark von der textart abhängt.} 
+Die _produktion vielversprechender unerwartbarkeiten_ beschränkt sich weder auf die schöpfungskraft von geistern _(genies)_ noch auf’s funzelpotential von neuronenmassen _(gehirne)_. Intelligent kann alles sein, was sinnvoll als ›subjekt‹ einer handlung beschreib- bzw. beobachtbar ist: menschen, personen, bücher, organisationen, roboter, tiere, etc. <<bookmark-1>> Das ist nur unverständlich, wenn eine handlung durch das subjekt, statt umgekehrt ein subjekt durch die handlung konstituiert wird <<bookmark-2>>. Was als handlung bestimmbar ist oder bestimmt werden soll, bleibt prinzipiell diskutabel und (gesellschaftlich) veränderbar. Noch vor ein paar hundert jahren mußten sich autoren für das sprechen ihrer figuren verantworten – heute ist es eine trivialität, daß ein autor nicht mit den aussagen oder implikationen seines textes verwechselt werden darf. <<bookmark-3>> 
 
 Weiter ist bereits zweifelhaft geworden, ob alles tierverhalten als reines ›verhalten‹ beschreibbar ist. Und bei computern warten wir längst nur auf deren enttrivialisierung. Können algorythmen intelligent sein/werden? Daß das eine offene frage ist, bestätigt bereits die these.
 
-So wenig wie zwingend bestimmbar ist, ob eine handlung eine handlung ist, so sehr bleibt auch dauerhaft fraglich, was intelligent ist. Zu- und absage bleibt personen- und zeitrelativ offen. Das meint: kontingent – aber nicht: beliebig. Die zuschreibung von intelligenz eröffnet (durch ablehnung, zustimmung, relativierung, problematisierung) anschließbarkeiten.\footnote{»Das ist doch nur geschwafel. Bloß verrückt die frau…« \\ »Nein, gar nicht, sie ist ihrer zeit weit voraus!« \\ »Ich denke eher, daß \emph{du} die intelligenten schlußfolgerungen in den text rein liest…«}
+So wenig wie zwingend bestimmbar ist, ob eine handlung eine handlung ist, so sehr bleibt auch dauerhaft fraglich, was intelligent ist. Zu- und absage bleibt personen- und zeitrelativ offen. Das meint: kontingent – aber nicht: beliebig. Die zuschreibung von intelligenz eröffnet (durch ablehnung, zustimmung, relativierung, problematisierung) anschließbarkeiten.<<bookmark-4>>
 
 Ein als ›verhalten‹ beobachtetes geschehen aber kann nicht gleichzeitig als intelligentes beobachtet werden. Die unterstellung eines verhaltensgeschehens fordert gerade die trivialisierung des ereignisses.  
 
-\section*{Häufigkeit}
+---
 
-\emph{Produktion von vielversprechenden unerwartbarkeiten} disqualifiziert häufiges. Häufiges ist erwartbar und wird erwartet. Damit kann, was gestern noch intelligent war, heute als selbstverständlich sein. 
+HÄUFIGKEIT
+
+_Produktion von vielversprechenden unerwartbarkeiten_ disqualifiziert häufiges. Häufiges ist erwartbar und wird erwartet. Damit kann, was gestern noch intelligent war, heute als selbstverständlich sein. 
 
 Hier nun zeigt sich die analyzität dieses intelligenzbegriffs: er unterscheidet intelligent von selbstverständlich – nicht intelligent von dumm. Er ist nicht normativ und bevorzugt nicht intelligenz vor nicht-intelligenz. Das widerspräche der inneren form: denn nur durch selbstverständliches handeln wird intelligentes beobachtbar. 
 
+---
 
+KOGNITIVE FÄHIGKEITEN
 
-\section*{Kognitive fähigkeiten}
+Der _produktion vielversprechender unerwartbarkeiten_ sind die »kognitiven fähigkeiten« eines »individuums« gleichgültig. Der intelligenzbegriff ist flexibel und verzichtet auf die rückführung von intelligenz auf individuen <<bookmark-5>>. Dementsprechend kann – bei schwächer ausgeprägten individuierungstechniken <<bookmark-6>> – dasselbe individuum bei dem einen geschehen (bzw. in einem bereich) als intelligent beschrieben werden, während demselben anderswo die intelligenz abgesprochen wird.
 
-Der \emph{produktion vielversprechender unerwartbarkeiten} sind die »kognitiven fähigkeiten« eines »individuums« gleichgültig. Der intelligenzbegriff ist flexibel und verzichtet auf die rückführung von intelligenz auf individuen.\footnote{Es verhält sich dann gerade andersherum: Nicht, wer herausragende kognitive fähigkeiten hat, dessen unerwartete produktionen werden als vielversprechend beurteilt und damit als ›intelligent‹ markiert – stattdessen führt die beobachtung häufigen intelligenten handelns eines individuums zur unterstellung besonderer kognitiver fähigkeiten. Das hat sehr intelligent die mutter des etwas einfältigen Forrest Gump pointiert: »Dumm ist der, der dummes tut.« (Und umgekehrt.) \\ Hierfür benötigt es dann aber eines konzepts ›individuum‹ bzw. einer (kultur-)technik der individuenidentifikation.}  Dementsprechend kann – bei schwächer ausgeprägten individuierungstechniken\footnote{Die neuzeitlichen individuumskonzepte wurde längst durch psychoanalyse, psychologie und dann neurologie geschwächt und durch komplexere identitätskonzepte abgelöst.} – dasselbe individuum bei dem einen geschehen (bzw. in einem bereich) als intelligent beschrieben werden, während demselben anderswo die intelligenz abgesprochen wird.
+---
 
-\section*{Der IQ-test}
+DER IQ-TEST
 
-Nun ist auch der \textsc{iq}-test besser problematisierbar: \textsc{iq}\emph{-tests testen vielversprechende erwartbarkeiten.} Denn unerwartbarkeiten nicht beobachten zu können, liegt im wesen eines ›tests‹. Dies liegt nicht nur daran, daß der \textsc{iq}-test intelligenz schlicht als ›vielversprechende erwartbarkeit‹ definiert.\footnote{Man denke nur an die dümmste variante der \textsc{iq}-messung, wo noch Einsteins und Newtons intelligenzquotient »getestet« (hä?) oder eher »geschätzt« (immer noch: hä?) wird.} Vielmehr wird präsupponiert, die produktion von vielversprechenden erwartbarkeiten ginge einher mit dem potential zur produktion vielversprechender unerwartbarkeiten. Es wird dann darauf verwiesen, daß mit hohem \textsc{iq}-wert getestete häufiger höhere akademische abschlüsse erreichten. Das aber ist gerade kein empirischer nachweis, sondern die wiederholung der eingegangenen voraussetzungen. Die frage bleibt offen, wie weit es denn mit der benotung in der schule sei, ja es wird die ironische doofheit des verfahrens offensichtlich dadurch, daß ein hoher \textsc{iq} nur »in den meisten fällen« mit guten noten und gute noten nur »in den meisten fällen« mit einem hohen \textsc{iq} einhergehen. Das sollte mindestens zweifel an der qualität beider verfahren hervorrufen.
+Nun ist auch der IQ-test besser problematisierbar: _IQ-tests testen vielversprechende erwartbarkeiten. Denn unerwartbarkeiten nicht beobachten zu können, liegt im wesen eines ›tests‹. Dies liegt nicht nur daran, daß der IQ-test intelligenz schlicht als ›vielversprechende erwartbarkeit‹ definierte <<bookmark-7>>. Vielmehr wird präsupponiert, die produktion von vielversprechenden erwartbarkeiten ginge einher mit dem potential zur produktion vielversprechender unerwartbarkeiten. Es wird dann darauf verwiesen, daß mit hohem IQ-wert getestete häufiger höhere akademische abschlüsse erreichten. Das aber ist gerade kein empirischer nachweis, sondern die wiederholung der eingegangenen voraussetzungen. Die frage bleibt offen, wie weit es denn mit der benotung in der schule sei, ja es wird die ironische doofheit des verfahrens offensichtlich dadurch, daß ein hoher IQ nur »in den meisten fällen« mit guten noten und gute noten nur »in den meisten fällen« mit einem hohen IQ einhergehen. Das sollte mindestens zweifel an der qualität beider verfahren hervorrufen.
 
-Die unterscheidung \textsc{klug/dumm} ist längst hinfällig: ein rechengenie kann analphabet sein, und ein hervorragender pianist ein grottiger architekt. Hervorragende schriftsteller litten und leiden an rechtschreibschwächen\footnote{Ein berühmtes beispiel wäre F. Scott Fitzgerald.} und die meisterung von rechtschreibung und grammatik ist nicht schon an sich intelligent.\footnote{Gerade dies führt in vielen fällen zu einer apologetischen heilssprechung zeitgenössischer rechtschreibregeln, denen dann eine art kruder sprachlogik zugrunde spintisiert wird. Diese seien, vermeintlich allem alten weit voraus, doch vor allem neuen zu beschützen.}
+Die unterscheidung _klug/dumm_ ist längst hinfällig: ein rechengenie kann analphabet sein, und ein hervorragender pianist ein grottiger architekt. Hervorragende schriftsteller litten und leiden an rechtschreibschwächen <<bookmark-8>>, und die meisterung von rechtschreibung und grammatik ist nicht schon an sich intelligent. <<bookmark-9>>
 
-Tatsächlich ist auch der intelligenztest nur dort intelligent, wo er für vielversprechende unerwartbarkeit sorgt: wo ein schlechter schüler einen hohen \textsc{iq}-wert erreicht – und damit auf die kontingenz schulischer wertungsverfahren verweist.
+Tatsächlich ist auch der intelligenztest nur dort intelligent, wo er für vielversprechende unerwartbarkeit sorgt: wo ein schlechter schüler einen hohen IQ-wert erreicht – und damit auf die kontingenz schulischer wertungsverfahren verweist.
 
-\section*{Schluß}
+---
 
-Natürlich wird sich eine derartige fassung des intelligenzbegriffs schwer populär durchsetzen lassen\footnote{Außer sie läßt sich selber wiederum als kampfbegriff \emph{gegen} \textsc{iq}-tests banalisieren.}, denn testbarkeit bleibt hierfür immer defizitär. 
+SCHLUSS
+
+Natürlich wird sich eine derartige fassung des intelligenzbegriffs schwer populär durchsetzen lassen <<bookmark-10>>, denn testbarkeit bleibt hierfür immer defizitär. 
 
 Viele stört die unsicherheit der bestimmung von intelligenz – die intelligenz läßt sich davon – ein glück! – nicht stören.
 
 ---
 
-[[bookmark-1, ]] \footnote{\emph{@ReisAgainst} hat mich darauf aufmerksam gemacht, daß »usw.« und »etc.« häufig weiterführbarkeit suggerieren, ohne das dem autor mehr eingefallen wäre. Also habe ich mir mühe gegeben: bilder, strukturen, erklärungen, experimente, zeichnungen, metaphern, etc.}
+[[bookmark-1, {1}]]\{1} http://twitter.com/ReisAgainst[@ReisAgainst] hat mich darauf aufmerksam gemacht, daß »usw.« und »etc.« häufig weiterführbarkeit suggerieren, ohne das dem autor mehr eingefallen wäre. Also habe ich mir mühe gegeben: bilder, strukturen, erklärungen, experimente, zeichnungen, metaphern, etc.
+
+[[bookmark-2, {2}]]\{2} Gerade deshalb bleiben die meisten pragmatismen nur modifikationen mentalisitischer programme, nämlich mittel-zweck zentrierende subjektivismen.
+
+[[bookmark-3, {3}]]\{3} Wobei dies stark von der textart abhängt.
+
+[[bookmark-4, {4}]]\{4} »Das ist doch nur geschwafel. Bloß verrückt die frau…« 
+
+»Nein, gar nicht, sie ist ihrer zeit weit voraus!« 
+
+»Ich denke eher, daß _du_ die intelligenten schlußfolgerungen in den text rein liest…«
+
+[[bookmark-5, {5}]]\{4} Es verhält sich dann gerade andersherum: Nicht, wer herausragende kognitive fähigkeiten hat, dessen unerwartete produktionen werden als vielversprechend beurteilt und damit als ›intelligent‹ markiert – stattdessen führt die beobachtung häufigen intelligenten handelns eines individuums zur unterstellung besonderer kognitiver fähigkeiten. Das hat sehr intelligent die mutter des etwas einfältigen Forrest Gump pointiert: »Dumm ist der, der dummes tut.« (Und umgekehrt.) 
+
+Hierfür benötigt es dann aber eines konzepts ›individuum‹ bzw. einer (kultur-)technik der individuenidentifikation.
+
+[[bookmark-6, {6}]]\{6} Die neuzeitlichen individuumskonzepte wurde längst durch psychoanalyse, psychologie und dann neurologie geschwächt und durch komplexere identitätskonzepte abgelöst.
+
+[[bookmark-7, {7}]]\{7} {Man denke nur an die dümmste variante der \textsc{iq}-messung, wo noch Einsteins und Newtons intelligenzquotient »getestet« (hä?) oder eher »geschätzt« (immer noch: hä?) wird.
+
+[[bookmark-8, {8}]]\{8} Ein beispiel wäre F. Scott Fitzgerald.
+
+[[bookmark-9, {9}]]\{9} Gerade dies führt in vielen fällen zu einer apologetischen heilssprechung zeitgenössischer rechtschreibregeln, denen dann eine art kruder sprachlogik zugrunde spintisiert wird. Diese seien, vermeintlich allem alten weit voraus, doch vor allem neuen zu beschützen.
+
+[[bookmark-10, {10}]]\{10} Außer sie läßt sich selber wiederum als kampfbegriff _gegen_ IQ-tests banalisieren.
