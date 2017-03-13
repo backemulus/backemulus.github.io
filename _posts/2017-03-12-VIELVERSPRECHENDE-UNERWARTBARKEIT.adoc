@@ -2,7 +2,9 @@
 :hp-tags: intelligenz, iq, 
 :published_at: 2017-03-12
 
-DEFINITION EINES ANALYTISCH BRAUCHBAREN INTELLIGENZBEGRIFFS (http://www.mulus.science/bertrandterrier-iq.pdf[PDF]) 
+DEFINITION EINES ANALYTISCH BRAUCHBAREN INTELLIGENZBEGRIFFS 
+
+(http://www.mulus.science/bertrandterrier-iq.pdf[Hier als PDF]) 
 
 ---
 
@@ -26,7 +28,7 @@ Ein als ›verhalten‹ beobachtetes geschehen aber kann nicht gleichzeitig als 
 
 HÄUFIGKEIT
 
-_Produktion von vielversprechenden unerwartbarkeiten_ disqualifiziert häufiges. Häufiges ist erwartbar und wird erwartet. Damit kann, was gestern noch intelligent war, heute als selbstverständlich sein. 
+_Produktion von vielversprechenden unerwartbarkeiten_ disqualifiziert häufiges. Häufiges ist erwartbar und wird erwartet. Damit kann, was gestern noch intelligent war, heute selbstverständlich sein. 
 
 Hier nun zeigt sich die analyzität dieses intelligenzbegriffs: er unterscheidet intelligent von selbstverständlich – nicht intelligent von dumm. Er ist nicht normativ und bevorzugt nicht intelligenz vor nicht-intelligenz. Das widerspräche der inneren form: denn nur durch selbstverständliches handeln wird intelligentes beobachtbar. 
 
@@ -58,7 +60,7 @@ Viele stört die unsicherheit der bestimmung von intelligenz – die intelligenz
 
 [[bookmark-1, {1}]]\{1} http://twitter.com/ReisAgainst[@ReisAgainst] hat mich darauf aufmerksam gemacht, daß »usw.« und »etc.« häufig weiterführbarkeit suggerieren, ohne das dem autor mehr eingefallen wäre. Also habe ich mir mühe gegeben: bilder, strukturen, erklärungen, experimente, zeichnungen, metaphern, etc.
 
-[[bookmark-2, {2}]]\{2} Gerade deshalb bleiben die meisten pragmatismen nur modifikationen mentalisitischer programme, nämlich mittel-zweck zentrierende subjektivismen.
+[[bookmark-2, {2}]]\{2} Gerade deshalb bleiben die meisten pragmatismen nur modifikationen mentalistischer programme, nämlich mittel-zweck zentrierende subjektivismen.
 
 [[bookmark-3, {3}]]\{3} Wobei dies stark von der textart abhängt.
 
