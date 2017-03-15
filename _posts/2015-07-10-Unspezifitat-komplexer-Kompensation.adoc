@@ -1,4 +1,4 @@
-# UNPSEZIFITÄT KOMPLEXER KOMPENSATION
+# Unspezifität komplexer Kompensation
 :hp-tags: Kompensation, Blumenberg,
 :published_at: 2015-07-10
 
