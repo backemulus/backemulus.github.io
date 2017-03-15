@@ -2,7 +2,7 @@
 :hp-tags: kommunikation, forschung, podcast, publikation, verlag, wissenschaft, universität,
 :published_at: 2017-03-15
 
-*Podcast https://colloquium.ifwo.eu/2017/03/15/wissenschaftskommunikation-und-verlage/[Wissenschaftskommunikation und Verlage]*
+PODCAST https://colloquium.ifwo.eu/2017/03/15/wissenschaftskommunikation-und-verlage/[WISSENSCHAFTSKOMMUNIKATION UND VERLAGE]
 
 ---
 
