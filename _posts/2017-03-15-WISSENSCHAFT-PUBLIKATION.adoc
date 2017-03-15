@@ -1,0 +1,29 @@
+# WISSENSCHAFT & PUBLIKATION
+:hp-tag: kommunikation, forschung, podcast, publikation, verlag, wissenschaft, universität,
+:published_at: 2017-03-15
+
+PODCAST https://colloquium.ifwo.eu/2017/03/15/wissenschaftskommunikation-und-verlage/[WISSENSCHAFTSKOMMUNIKATION & VERLAGE]
+
+---
+
+Am 14.03.2017 hat mich https://twitter.com/adloquii zu seinem podcast https://colloquium.ifwo.eu[Colloquium. Wissenschaft ohne Organisationszwang] eingeladen, für eine diskussion über https://colloquium.ifwo.eu/2017/03/15/wissenschaftskommunikation-und-verlage/[Wissenschaftskommunikation und Verlage]. Neben der bedeutung der publikation für wissenschaft sprachen wir auch über autor-/urheberschaft und die probleme universitärer wissenschaft. 
+
+Als zwanglose orientierung hatte @adloquii folgende struktur vorgeschlagen:
+
+____
+. Kommunikation
+. Wissenschaftskommunikation / Wissenschaft
+. Autorenschaft
+. Wissenschaftliche Publikationen (Zeitschriften, Monographien, vortragsbände)
+. Wissenschaftsverlage und Bibliotheken
+.. Ebooks / OpenAccess
+.. Beschaffung
+. Verlagsgründung: Wie? Wo könnten Hürden liegen? Welchen Fragen könnte man auf welche Art und Weise nachgehen?
+. Reflexion zum Gespräch und freie Diskussion
+. Verabschiedung
+____
+
+
+
+
+	
