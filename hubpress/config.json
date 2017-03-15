@@ -6,11 +6,11 @@
     "cname": "www.mulus.science"
   },
   "site": {
-    "title": "MULUS.SCIENCE",
-    "description": "AUF SICHT SCHREIBEN",
+    "title": "mulus.science",
+    "description": "spintisieren statt philosophieren",
     "logo": "/images/pfeil.png",
     "cover": "/images/mulusg.jpg",
-    "postsPerPage": "9",
+    "postsPerPage": "7",
     "disqus": "bterrier"
   },
   "socialnetwork": {
