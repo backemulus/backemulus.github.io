@@ -1,5 +1,5 @@
 # WISSENSCHAFT & PUBLIKATION
-:hp-tag: kommunikation, forschung, podcast, publikation, verlag, wissenschaft, universität,
+:hp-tags: kommunikation, forschung, podcast, publikation, verlag, wissenschaft, universität,
 :published_at: 2017-03-15
 
 PODCAST https://colloquium.ifwo.eu/2017/03/15/wissenschaftskommunikation-und-verlage/[WISSENSCHAFTSKOMMUNIKATION & VERLAGE]
