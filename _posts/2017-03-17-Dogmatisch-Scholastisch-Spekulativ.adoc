@@ -32,27 +32,21 @@ Allerdings ist seine folgeerklärung – »this unity is the result of a process
 Das verhältnis von theorie zu methode und methode zu theorie kann _›grammatisch‹_ als ›infinitiv‹ oder ›definitiv‹ bestimmt werden; ›definitivität‹ unterstellt die fundierung einer seite – infinitivität bezeichnet eine von der anderen seite beeinflußbare vorläufigkeit. Danach ergäbe sich folgendes modell:
 
 
-\begin{table}[h]
-\centering
+---
 
+[[img-meththeo]]
+.Methode/Theorie
+image::meththeo.png[Methode/Theorie]
 
-\begin{tabular}{c|cc}
-   \textsc{Methode}     & \multicolumn{2}{c}{\textsc{Theorie}} \\\hline\hline
- & definitiv          & infinitiv         \\\hline
-definitiv      & \emph{(apologetisch)} &  \emph{scholastisch}  \\
-infinitiv   & \emph{dogmatisch} & \emph{spekulativ}              
-\end{tabular}
-\caption{Theorie/Methode}
-\label{my-label}
-\end{table}
+---
 
 Konzeptionen, die methode und theorie als wesensverschiedene entitäten trennen, beschreiben deren verhältnis als strickt kausallogischen abhängigkeit; hierbei steht eine (wirkende) progressionsseite gegen eine (bewirkbare) rezeptionsseite. Eine solche konzeption ist doppelt defizitär: 
 
-1. Kann sie die infinitivität beider seiten (spekulation) nicht verstehen.
+. Kann sie die infinitivität beider seiten (spekulation) nicht verstehen.
 
-2. Kann sie den wechsel von theorieprogrammen nur als »ablösung«, nicht als evolution beobachten. Ihr muß gerade auch die unterschiedliche rezeption bzw. die verschiedenartige anschlußfähigkeit von theoriekonzeptionen ein rätselhaftes mißverstehen bleiben.
+. Kann sie den wechsel von theorieprogrammen nur als »ablösung«, nicht als evolution beobachten. Ihr muß gerade auch die unterschiedliche rezeption bzw. die verschiedenartige anschlußfähigkeit von theoriekonzeptionen ein rätselhaftes mißverstehen bleiben.
 
-Es benötigt beides, will man die entstehung von radikaltheorien bzw. deren entwicklung zu fundamentaltheorien beobachten.\footnote{Vgl. dazu bisher Kusanowsky: »Fundamental und radikal«. Desweiteren wird der text weitergeführt werden.}
+Es benötigt beides, will man die entstehung von radikaltheorien bzw. deren entwicklung zu fundamentaltheorien beobachten <<bookmark-3>>. 
 
 
 
@@ -65,17 +59,8 @@ Es benötigt beides, will man die entstehung von radikaltheorien bzw. deren entw
 
 [[bookmark-2, (2)]] (2) Bereits Aristoteles gibt für eine unterscheidung die ›identifizierung‹ beider seiten vor: die nennung der oberklasse (_genus proximum_).
 
-
-
-Blumenberg, Hans; \emph{Die kopernikanische Wende} (edition suhrkamp 138), Frankfurt/M.  {\addfontfeature{VerticalPosition=Superior}1}1965
-
-\smallskip
-
-—, \emph{Die Legitimität der Neuzeit}, Frankfurt/M. 1966
+[[bookmark-3, (3)]] (3) Vgl. dazu bisher Klaus Kusanowsky, https://differentia.wordpress.com/2017/01/15/fundamental-radikal/[Fundamental und radikal. Rechtfertigung und Provokation], auf: _differentia_, stand: 17.03.2017
 
 
 
-
-
-Luhmann, Niklas: \emph{Gesellschaftsstruktur und Semantik. Studien zur Wissenssoziologie der modernen Gesellschaft} (stw 1091), III bde., bd. I, Frankfurt/M. {\addfontfeature{VerticalPosition=Superior}1}1993 (1980)
  
