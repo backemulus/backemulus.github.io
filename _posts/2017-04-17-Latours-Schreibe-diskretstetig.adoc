@@ -1,6 +1,18 @@
-# Biologistische Evolutionsmärchen
-:hp-tags: biologismus, evolution, evolutionstheorie, naturalismus, theorie
-:published_at: 2017-04-10
+# Latours Schreibe & diskret/stetig
+:hp-tags: Blumenberg, diskret/stetig, epochen, geschichte, Latour, 
+:published_at: 2017-04-17
 
+++++
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">Ich blätterte gerade durch &quot;Wir sind nie mordern gewesen&quot; und dachte: Bruno Latour schreibt wie ein Deutscher. Nicht wie ein Franzose.</p>&mdash; Aulus Agerius (@adloquii) <a href="https://twitter.com/adloquii/status/852473828986978305">April 13, 2017</a></blockquote>
+++++
 
+Stutzen bei diesem tweet von http://twitter.com/adloquii[@adloquii] – wie schreibt »wie ein Deutscher«, wie schriebe man »wie ein Franzose«? Wie schreibt man stilistisch einer sprache gemäß, unabhängig vom gebrauch der sprache? Auf einwand und nachfrage reagierte Michael mit einem video:
+
+video::Lp-sQhE9iRE[youtube]
+
+Meine reaktion (auch video):
+
+video::Xe2-7hv84Io[youtube]
+
+Ich beziehe mich auf den film von Jim Jarmusch (2016) (http://www.imdb.com/title/tt5247022/?ref_=fn_al_tt_1[imdb]).
 
