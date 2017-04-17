@@ -14,7 +14,7 @@ Stutzen bei diesem tweet von http://twitter.com/adloquii[@adloquii] – wie schr
 
 ---
 
-video::Lp-sQhE9iRE[youtube, width=150]
+video::Lp-sQhE9iRE[youtube]
 
 ---
 
@@ -22,7 +22,7 @@ Meine reaktion (auch video):
 
 ---
 
-video::Xe2-7hv84Io[youtube, width=150]
+video::Xe2-7hv84Io[youtube]
 
 ---
 
