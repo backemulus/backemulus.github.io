@@ -3,10 +3,10 @@
 :published_at: 2017-04-17
 
 ++++
-<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">Ich blätterte gerade durch &quot;Wir sind nie mordern gewesen&quot; und dachte: Bruno Latour schreibt wie ein Deutscher. Nicht wie ein Franzose.</p>&mdash; Aulus Agerius (@adloquii) <a href="https://twitter.com/adloquii/status/852473828986978305">April 13, 2017</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="de"><p lang="de" dir="ltr">Ich blätterte gerade durch &quot;Wir sind nie mordern gewesen&quot; und dachte: Bruno Latour schreibt wie ein Deutscher. Nicht wie ein Franzose.</p>&mdash; Aulus Agerius (@adloquii) <a href="https://twitter.com/adloquii/status/852473828986978305">13. April 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 ++++
 
-Stutzen bei diesem tweet von http://twitter.com/adloquii[@adloquii] – wie schreibt »wie ein Deutscher«, wie schriebe man »wie ein Franzose«? Wie schreibt man stilistisch einer sprache gemäß, unabhängig vom gebrauch der sprache? Auf einwand und nachfrage reagierte Michael mit einem video:
+Stutzen bei diesem tweet von http://twitter.com/adloquii[@adloquii] – wie schreibt man »wie ein Deutscher«, wie schriebe man »wie ein Franzose«? Wie schreibt man stilistisch einer sprache gemäß, das aber unabhängig vom gebrauch der sprache? Auf einwand und nachfrage reagierte Michael mit einem video:
 
 video::Lp-sQhE9iRE[youtube]
 
