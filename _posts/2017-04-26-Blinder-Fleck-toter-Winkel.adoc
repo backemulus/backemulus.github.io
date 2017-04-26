@@ -37,10 +37,9 @@ Notwendige (aber durchaus nicht hinreichende) bedingung dieser these wäre, daß
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 ++++
 
----
 
 [[bookmark-2, (2)]] (2) Das problem, zirkel- und dogmenfreie verfahren zur identifikation von pseudowissenschaft zu finden, scheint mir dies zu bestätigen.
 
-[[bookmark-3, (3)]] (3) Das wort »können« ist hier eigentlich falsch: denn wo sie es _kann_, _wird_ dieses früher oder später getan. Sonst bäruchte man eine erklärung, warum institutionalisierte wissenschaft bisher nicht tat, was sie doch getan haben könnte.
+[[bookmark-3, (3)]] (3) Das wort »können« ist hier eigentlich falsch: denn wo sie es _kann_, _wird_ dieses früher oder später getan. Sonst bäruchte man eine erklärung, warum institutionalisierte wissenschaft bisher nicht tat, was sie doch getan haben hätte können.
 
 [[bookmark-4, (4)]] (4) Man denke vergleichsweise an die selbstlegitimation von kirchen: noch der offenste und vernünftigste und gescheiteste protestantismus muß doch mindestens behaupten es wäre »besser« in die kirche zu gehen und zwar »besser in diese unsere kirche«.
