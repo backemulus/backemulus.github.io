@@ -1,0 +1,46 @@
+# Blinder Fleck – blinder Winkel?
+:hp-tags: blinder fleck, citizen science, institution, wissenschaft, 
+:published_at: 2017-04-26
+
+
+_Kann institutionalisierte wissenschaft sich als alternativform beobachten?_ <<bookmark-1>>
+
+Über diese frage entwickelte sich eine diskussion mit http://twitter.com/lisarosa[@lisarosa] und http://twitter.com/adloquii[@adloquii]; der vorliegende text reagiert im besonderen auf folgenden tweet:
+
+---
+
+++++
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr"><a href="https://twitter.com/bertrandterrier">@bertrandterrier</a> <a href="https://twitter.com/lisarosa">@lisarosa</a> <a href="https://twitter.com/kusanowsky">@kusanowsky</a> <a href="https://twitter.com/Postsokratiker">@Postsokratiker</a> <a href="https://twitter.com/NetzFalter">@NetzFalter</a> Beobachten schon, aber dank Organisationszwang wohl nicht innerhalb der Institution auf die Beobachtung durch Formanpassung reagieren.</p>&mdash; Aulus Agerius (@adloquii) <a href="https://twitter.com/adloquii/status/857261194201243648">April 26, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+++++
+
+---
+
+Ich bin skeptisch. Was meint hier, sie könne es beobachten, aber nicht durch formanpassung reagieren? Wissenschaft beobachtet die verhältnisse, wird aber durch ein festes reglement »gezwungen, nichts zu sagen«(?) Das hieße, wissenschaftler wären entweder doof (sie beobachten’s nicht, obwohl’s möglich wär) oder hörig (gezwungen durch die institution, ohne widerspruch). Nicht ersichtlich ist mir aber, daß die instiutionalisierte wissenschaft in einer krise wäre, weil sie etwas beobachten könnte und würde, auf das sie nicht angemessen reagieren könnte. Dagegen behaupte ich, besteht die »krise« (doofe bezeichnung, aber was soll’s…) institutionalisierter wissenschaft gerade im unverständnis der funktionsuntüchtigkeit ihrer reaktionen. Und dies impliziert die nicht-beobachtbarkeit von sich selbst als alternativform wissenschaftlichen verfahrens.
+
+Die institutionalisierte wissenschaft unterscheidet wissenschaft und nicht-wissenschaft, nicht aber weiter zwischen institutioneller und nicht-institutioneller wissenschaft. Im gegenteil: wo sie nicht-institutionalisierte wissenschaft ›entdeckt‹, spricht sie von mißstand: entweder den eines fehlenden einschlusses (»das ist wissenschaft und muß institutionalisiert oder institutionell eingebunden werden) oder (teil-)erfolgloser delegitimierungsverfahren (aufklärung von pseudowissenschaft). <<bookmark-2>>
+
+Dies mag folgenden grund haben: Würde institutionalisierte wissenschaft sich als alternativform beobachten »können« <<bookmark-3>>, würde ihr eine antwort auf die frage nach gründen für die erhaltung der institution unmöglich. Jede mögliche antwort würde andere wissenschaft als defizitär delegitimieren: »Nur vom staat finanzierte wissenschaft ist unabhängig.« »Nur vom staat finanzierte wissenschaft garantiert professionalität.« Kann institutionalisierte wissenschaft darauf nicht zurückgreifen, ist ihre stabilität gefährdet. <<bookmark-4>> 
+
+Ich würde also behaupten (aber zugegeben: unsicher): __Die instiutionalisierte wissenschaft kann sich nur als ›für wissenschaft__ notwendige _form‹ beobachten._ 
+
+Notwendige (aber durchaus nicht hinreichende) bedingung dieser these wäre, daß institutionalisierte wissenschaft andere formen wissenschaftlichen vorgehens entweder ablehnt (bsp: pseudowissenschaft), diese anbindet (man denke an die assimilation der naturheilkunde durch die medizin) oder sie als defizitär markiert (_citizen science_, populärwissenschaft, etc.). Hier läge ein ansatzpunkt zur überprüfung. 
+
+---
+
+[[bookmark-1, (1)]] (1) Beginn der diskussion hier: 
+
+---
+
+++++
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">»Es gibt eine Wissenschaft jenseits der Wissenschaft.« —Finke über citizen science. <a href="https://twitter.com/kusanowsky">@kusanowsky</a> Der wissenschaftler wundert sich &gt;&gt;</p>&mdash; Lesekobold (@bertrandterrier) <a href="https://twitter.com/bertrandterrier/status/857232484702060545">April 26, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+++++
+
+---
+
+[[bookmark-2, (2)]] (2) Das problem, zirkel- und dogmenfreie verfahren zur identifikation von pseudowissenschaft zu finden, scheint mir dies zu bestätigen.
+
+[[bookmark-3, (3)]] (3) Das wort »können« ist hier eigentlich falsch: denn wo sie es _kann_, _wird_ dieses früher oder später getan. Sonst bäruchte man eine erklärung, warum institutionalisierte wissenschaft bisher nicht tat, was sie doch getan haben könnte.
+
+[[bookmark-4, (4)]] (4) Man denke vergleichsweise an die selbstlegitimation von kirchen: noch der offenste und vernünftigste und gescheiteste protestantismus muß doch mindestens behaupten es wäre »besser« in die kirche zu gehen und zwar »besser in diese unsere kirche«.
