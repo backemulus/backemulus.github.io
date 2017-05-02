@@ -2,16 +2,13 @@
 :hp-tags: autorschaft, kopie, originalgenie, plagiat, text, wissenschaft
 :published_at: 2017-05-02
 
-ORIGINAL UND KOPIE IN DER WISSENSCHAFT
+ORIGINAL UND KOPIE 
 
-_Zweiter text zu einer reihe vielperspektivischer beschäftigung mit der konzeption des originalgenies._
-
-_Der text enthält lücken und unklarheiten, die ich noch nicht bewältigt habe._
+_Die vorliegende auseinandersetzung mit dem originalgenie bleibt fragmentarisch. Die einzelnen gedankenstränge konnte ich bisher nicht bündig zusammenführen. Trotzdem veröffentliche ich den text, weil ich einiges für durchaus weiterführenswert halte, auch wenn mir dies bisher nicht gelungen ist._
 
 ---
 
 ____
-
 Das Wörtchen ›echt‹ war das bedeutsamste und höchstgeschätzte Adjektiv, das der _Kunstwart_ zu vergeben hatte: Echt sollte schlechterdings alles sein, vom Nationalcharakter […] über die Ausdruckssprache eines Kunstwerks […] bis hin zur echten, nämlich rein zweckmäßigen und _darum_ schönen Form eines Möbelstücks.
 
 –Stach, _Kafka_, 241 f.
@@ -32,7 +29,7 @@ ____
 
 ---
 
-I.
+
 
 Den diktierenden, kritzelnden, tippenden menschen als ›autor‹ zu konzipieren, ist entscheidend für die gesellschaftliche behandlung von texterzeugnissen als »geistigem eigentum« und der gratifikationssicherung bestimmter ›berufe‹ <<bookmark-fa>>. Aber die autoridentifikationstechnik schwächelt. Plagiatsjäger mögen die ideologie des originalgenies noch zu retten versuchen, doch die bedrohung der wissenschaftlich professionellen erzwingen diskussionen, die unterscheidungen wie original/kopie/plagiat verunsichern. Das liegt vor allem an entwicklungen solcher schreib- und publikationstechniken, die für textproduktion längst unerläßlich sind.
 
@@ -42,7 +39,7 @@ Die entstehung der originalgeniösen ideologie läßt sich an entstehung und erh
 
 ---
 
-II.
+
 
 Spätestens um 1800 werden bestimmte berufe gratifikatorisch gesichert, um deren arbeit wahrscheinlich halten zu können. Zu diesen gehören schriftsteller und journalisten, philosphen und wissenschaftler <<bookmark-f2>>. Die wissenschaft hatte sich von der christlichen kirche gelöst und die kunst begann sich vom mäzenentum des adels und damit politischer einflußnahme zu entziehen. (Man denke bei ersterem an den Kopernikanismus, bei letzterem vor allem an Sturm und Drang und die Romantik, wo die hinwendung zur natur immer auch abwendung vom bürgertum und der protest kunstemanzipatorischer destruktion von ordnungszwängen ist.) 
 
