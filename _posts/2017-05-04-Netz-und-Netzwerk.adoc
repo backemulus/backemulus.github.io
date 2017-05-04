@@ -9,7 +9,9 @@ Sprachüblichkeiten entsprechen begriffswünschen selten; folgender wortgebrauch
 
 ### Netz/Vernetzung
 
-Das netzwerk ist unterscheidbar nach struktur- und prozeßseite; die strukturseite nenne ich das netz, die prozeßseite die vernetzung. Die beobachtung des netzwerks bekommt bekannte unschärfeprobleme, da bei beobachtung einer seite die andere unbestimmbar (eben unscharf) wird. Will man die strukturprozesse eines netzwerks beobachten, muß die struktur (das netz), dessen prozesse (veränderungen) es unterworfen ist, für die beobachtung präsupponiert werden. Ist unterstellt _was_ netz des netzwerks ist, läßt sich beobachten, _wie_ das netz wie das netz sich verändert: nämlich durch den wechsel von strukturvariablen (für die struktur indifferente veränderungen) und strukturkonstanten (fehler- und mängelercheinungen, destruktion, aber auch konstruktion.
+Das netzwerk ist vernetzung <<footnote-2>>, unterscheidbar nach struktur- und prozeßseite: die strukturseite ist das durch vernetzung entstandene netz, die prozeßseite ist die vernetzende netzbildung. 
+
+Die beobachtung des netzwerks bekommt bekannte unschärfeprobleme, da bei beobachtung einer seite die andere unbestimmbar (eben unscharf) wird. Will man die strukturprozesse eines netzwerks beobachten, muß die struktur (das netz), dessen prozesse (veränderungen) es unterworfen ist, für die beobachtung präsupponiert werden. Ist unterstellt _was_ netz des netzwerks ist, läßt sich beobachten, _wie_ das netz wie das netz sich verändert: nämlich durch den wechsel von strukturvariablen (für die struktur indifferente veränderungen) und strukturkonstanten (fehler- und mängelercheinungen, destruktion, aber auch konstruktion.
 
 
 
@@ -22,7 +24,7 @@ Dies gilt auch anders herum: wer die prozeßstrukturen beobachten will, muß ber
 
 ### Das internet als Netzwerk
 
-Das internet ist ein netzwerk. Nicht nur innoviert das internet eine neue struktur, sondern es innoviert zugleich neue prozesse der strukturbildung. Dies bedeutet, daß das internet nicht bloß als struktur innerhalb
+Das internet sollte als netzwerk beschrieben werden; dies würde bedeuten, daß wo die struktur des internets (das netz) beschrieben wird, ist das internet nicht vollkommen beschrieben; das internet ist deshalb über eine reine strukturbeschreibung nicht zu verstehen, weil es nicht nur strukturen innoviert, sondern auch die strukturbildung; es bestht also aus seinen strukturen, wie aus seinem strukturwandel.
 
 Damit ist es die vernetzung von adressen (Die deutsche sprache bietet hier mit der subjektivierung auf -ung eine für diese verhältnisse angenehme doppeldeutigkeit, die sich gut an der »steuerung« erklärt: dies kann die steuermechanik oder aber den steuerprozeß meinen, insofern verstehen wir das internet als netzmechanik als auch die prozessuierung: wie adressen sich vernetzen und das adressen sich  
 
@@ -62,4 +64,6 @@ Auch massenmediale verknüpfung arbeitet mit adressen, allerdings können diese 
 
 Siehe für weitere beiträge auch http://professio.ifwo.eu[Netz und Netzwerk] von http://twitter.com/adloquii[@adloquii] und die https://colloquium.ifwo.eu/2017/04/30/netz-und-netzwerk/[gleichnamige folge] seines https://colloquium.ifwo.eu[colloquium-podcasts] mit http://twitter.com/christopheus[@christopheus].
 
-[[footnote-2, 2]] [2] Wer auf ontologische referenz als begriffsrechtfertigung verzichtet und stattdessen auf konstruktive (nicht konstruktivistische!) methoden setzt, benötigt zur einführung von unterscheidungen und begriffen nur deren konstruierbarkeit;  eine unterscheidung ist möglich, so die unterscheidung gemacht werden kann; ihre konstruierbarkeit unterstellt dann ihre (intertemporale und interpersonale) [Nichteinmal das ist zwingend, da eine unterscheidung auch konstruierbar ist, wenn sie nur für ein bewußtsein in einem moment unvermittelbar konstruiert wird. Nur ist die unterscheidung dann personen- und kontextvariant: gebunden an das bewußtsein in dem moment. Ich sehe von diesen fällen ab und spreche nur über kommunikative unterscheidungen.] rekonstruktion. [Im methodischen konstruktivismus wird dies unter das (dort normative) prinzip der lehr-lernbarkeit subsumiert, vgl. dazu… ]
+[[footnote-2, 2]] [2] Vernetzung ist hier also im doppelsinne von ding und prozeß der deutschen substantivendung -ung gemeint; ein gutes beispiel ist die »steuerung«, welche die steuermechnaik oder den vorgang des steuerns bezeichnen kann.
+
+[footnote-2, 2] [2] Wer auf ontologische referenz als begriffsrechtfertigung verzichtet und stattdessen auf konstruktive (nicht konstruktivistische!) methoden setzt, benötigt zur einführung von unterscheidungen und begriffen nur deren konstruierbarkeit;  eine unterscheidung ist möglich, so die unterscheidung gemacht werden kann; ihre konstruierbarkeit unterstellt dann ihre (intertemporale und interpersonale) [Nichteinmal das ist zwingend, da eine unterscheidung auch konstruierbar ist, wenn sie nur für ein bewußtsein in einem moment unvermittelbar konstruiert wird. Nur ist die unterscheidung dann personen- und kontextvariant: gebunden an das bewußtsein in dem moment. Ich sehe von diesen fällen ab und spreche nur über kommunikative unterscheidungen.] rekonstruktion. [Im methodischen konstruktivismus wird dies unter das (dort normative) prinzip der lehr-lernbarkeit subsumiert, vgl. dazu… ]
