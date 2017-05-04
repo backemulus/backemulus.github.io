@@ -23,6 +23,8 @@ Dies gilt auch anders herum: wer die prozeßstrukturen beobachten will, muß ber
 ---
 
 Damit ist es die vernetzung von adressen (Die deutsche sprache bietet hier mit der subjektivierung auf -ung eine für diese verhältnisse angenehme doppeldeutigkeit, die sich gut an der »steuerung« erklärt: dies kann die steuermechanik oder aber den steuerprozeß meinen, insofern verstehen wir das internet als netzmechanik als auch die prozessuierung: wie adressen sich vernetzen und das adressen sich  
+
+Das internet ist geprägt durch die bindung der vernetzungsstrukturen an bestehende netzmechaniken (also die regelung der adressenvergabe und adressenvernetzung ), wie anders herum die bindung der netzprozesse – wie adressen vergeben werden ist nicht unabhängig von den plattformen
  
 Internet ist nicht bloß eine struktur Dies liegt an der doppelten elementarabhängigkeit des internets: das internet ist strukturabhängig von adressen und prozeßabhängig von der vernetzung von adressen. Dies erlaubt eine doppelte freiheit: Zum einen ist gleich, welche adressen vernetzt werden, solange sie vernetzt werden, zum anderen ist gleich, wie vernetzt wird, solange adressen vernetzt werden. Die vernetzung kann dezentral oder zentral, unmittelbar (adresse–adresse) oder mittelbar (adresse über adresse zu adresse, und zwar bis ins extremste steigerbar), minimal oder maximal (mindestens zwei, nach oben offen) stattfinden; oder sogar alles nebeneinander. So erlaubt das internet das auftreten massenmedialer strukturen, solange diese für sich funktionieren. 
 
