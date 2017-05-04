@@ -9,7 +9,7 @@ Sprachüblichkeiten entsprechen begriffswünschen selten; folgender wortgebrauch
 
 ### Netz/Vernetzung
 
-Das netzwerk ist vernetzung <<footnote-2>>, unterscheidbar nach struktur- und prozeßseite: die strukturseite ist das durch vernetzung entstandene netz, die prozeßseite ist die vernetzende netzbildung. 
+Das netzwerk ist vernetzung <<footnote-2>>, unterscheidbar nach struktur- und prozeßseite: auf der strukturseite sind die vernetzungsbedingungen bzw. die netzstruktur, die prozeßseite ist die vernetzung bzw. das netz.
 
 Die beobachtung des netzwerks bekommt bekannte unschärfeprobleme, da bei beobachtung einer seite die andere unbestimmbar (eben unscharf) wird. Will man die strukturprozesse eines netzwerks beobachten, muß die struktur (das netz), dessen prozesse (veränderungen) es unterworfen ist, für die beobachtung präsupponiert werden. Ist unterstellt _was_ netz des netzwerks ist, läßt sich beobachten, _wie_ das netz wie das netz sich verändert: nämlich durch den wechsel von strukturvariablen (für die struktur indifferente veränderungen) und strukturkonstanten (fehler- und mängelercheinungen, destruktion, aber auch konstruktion.
 
@@ -21,6 +21,25 @@ Die beobachtung des netzwerks bekommt bekannte unschärfeprobleme, da bei beobac
 Ich gehe davon aus, daß sich die unterscheidungsseiten nicht zugleich beobachten lassen, sondern stets nur durch präsupponierung der einen seite und von dieser einen die jeweils andere beobachten läßt. Wer das netzwerken (den strukturprozeß) beobachtet, präsupponiert das netz (die struktur); die beobachtung setzt eine transtemporale (durch die zeit beständige) struktur und beobachtet deren prozeß über das auftauchen und verschwinden von strukturmomenten: strukturvariablen (strukturindifferente veränderung) und strukturkonstanten (fehler- und mangelerscheinungen, destruktion, aber auch: konstruktion); der prozeß wird in strukturbegriffen beschrieben, weil nur an der beständigkeit der präsupponierten struktur prozeß zu beobachten ist. An der metapher des netzes: der knüpfprozeß eines netzes ist als prozeß nur insofern beobachtbar, als das netz auch unfertig als netz unterstellt wird; ›fortschrittliche‹ und ›destruktive‹ veränderung wird dann an strukturkonstanten gemessen, indifferente veränderung an strukturvariabeln. Letzteres: »Ist halt durch die algen mit der zeit grün geworden.« – Ersteres: »Ach! als netz taugt das nicht mehr; die knoten haben sich gelöst.« oder vor fertigstellung: »Das ist doch noch kein richtiges netz…« »Wird noch, ich mach’s ja grad erst.« und insofern sich hier ›beschwert‹ wird, muß das netz unterstellt werden.
 
 Dies gilt auch anders herum: wer die prozeßstrukturen beobachten will, muß bereits wissen, die strukturen welchen prozesses er untersucht.
+
+
+### Das internet als Netz
+
+Das internet hat keine eigene struktur, seine besonderheit ist die exekutierung bestimmter netzstrukturen als ein digitales netz neben anderen netzen. Die facebook-freundschaft ist dann freundschaft, nur digital, Das internet wirkt dann defizitär, es wird als primitive kompensation ohne anlaß verstanden.. Vor dem mangel der exekution bestimmter netzstrukturen im internet muß gewarnt werden: eine freundschaft ist keine richtige freundschaft über das internet Das internet ist es dann schuld, daß alles so schnell geht (weil tausende zeitungen am tag eine ausgabe human und vernünftig war, die stündliche aktualisierung aber nicht)
+
+### Das internet als netzstruktur
+
+Das internet ist die struktur zur bildung von netzen. Diese netze finden innerhalb des internets statt, ohne das internet zu sein. Hier 
+
+
+
+Das intrenet ist ein massenmedium; also: die einführung des fernsehers ist die einführung des internets. 
+
+.. (Etwas intelligenter nicht als massenmedium, sondern das internet als publikationstechnik innerhalb einer publikationstechnikentwicklung zu beobachten, ähnlich wie man sich schrift oder buchdruck erklärt. Dies scheint mir allerdings defizitär aus zwei gründen: 1. schwingt immer eine gewisse geschichtsphilosophie einer ständigen erweiterung von publikationstechniken mit, 2. würde das internet darauf reduziert, die publikationsstrukturen veränderten sich – ds stimmt zwar _auch_, aber es kann doch nicht behauptet werden, das internet wäre bloß: von der handschrift, über die druckschrift zum pixel. Nicht nur die publikation hat sich verändert, sondern überhaupt das verhältnis: produktion–publikation–rezeption; was eben vom wechsel von handschriftliche auf buchdruckerische publikation sich nicht änderte. 
+
+
+Auch massenmediale verknüpfung arbeitet mit adressen, allerdings können diese durch sehr starre (weil komplizierte) verknüpfungstechniken und privilegierung einzelner adressen (one-to-many, many-to-one) die adressen in conreta ignorieren und und mit abstrakten adressen arbeiten: das ARD, aber ›die zuschauer des ARD‹ – die ZEIT, aber ›die leser der ZEIT‹ … Die abstrakten adressen wirken dann nur quantitativ: genügend leser, genügend zuschauer brauchts, wer da geht und wer da kommt, bleibt egal. Diese abstrakten adressen kann das internet nicht bilden, weil es eben nicht ein netz im netzwerk ist: eine abstrakte adresse ist nicht anwählbar; nur konkrete adressen sind zugelassen und jede adresse ist (gleichrangig) adresse; die ZEIT kann einen retweet nicht erzwingen, aber die 13-jährige schülerin aus einem sächsischen dorf einen Daß das internet massenmedial mißverstanden wird, liegt wohl häufig daran, daß es schräg zu den massenmedien steht: die versuchen über das netzwerk internet das netzwerk massenmedium zu produzieren; das funktioniert nur eingeschränkt, so alle nicht-privilegierten adressen mitmachen; das internet bietet keinen sonderadressen, die publikationsmittel sind (ersteinmal) gleich verteilt und da nicht-privilegierte adressen im internet überwiegen, ist verweigerung (extrem als »trollen«) hoch wahrscheinlich. (Und wie reagiert die massenmediale logik auf diesen konflikt?: sie fordert die übertragung der privilegierungs- und selektionskriterien: das problem mit dem internet läge in der flexibilität der bedingungslosigkeit der adressenbildung (jeder, soviele er will, unter jedem namen, etc.) und deren vernetzung; massenmedial ist das problem des internets das internet. (Man will also ein digitales massenmedium und denkt auch zugleich dauernd, damit hätte sie es zu tun.)
+
 
 ### Das internet als Netzwerk
 
@@ -44,14 +63,7 @@ Als netzwerk ist das internet unscharf; darin liegt das potential: in der fluidi
 
 
 
-Zwei reduktionistische mißverständnisse liegt: Das internet ist eine struktur; das internet wird als netz neben anderen netzen unter den bedingungen eines bestimmten prozesses beschrieben; zwei beispiele:
 
-. Das intrenet ist ein massenmedium; also: die einführung des fernsehers ist die einführung des internets. 
-
-.. (Etwas intelligenter nicht als massenmedium, sondern das internet als publikationstechnik innerhalb einer publikationstechnikentwicklung zu beobachten, ähnlich wie man sich schrift oder buchdruck erklärt. Dies scheint mir allerdings defizitär aus zwei gründen: 1. schwingt immer eine gewisse geschichtsphilosophie einer ständigen erweiterung von publikationstechniken mit, 2. würde das internet darauf reduziert, die publikationsstrukturen veränderten sich – ds stimmt zwar _auch_, aber es kann doch nicht behauptet werden, das internet wäre bloß: von der handschrift, über die druckschrift zum pixel. Nicht nur die publikation hat sich verändert, sondern überhaupt das verhältnis: produktion–publikation–rezeption; was eben vom wechsel von handschriftliche auf buchdruckerische publikation sich nicht änderte. 
-
-
-Auch massenmediale verknüpfung arbeitet mit adressen, allerdings können diese durch sehr starre (weil komplizierte) verknüpfungstechniken und privilegierung einzelner adressen (one-to-many, many-to-one) die adressen in conreta ignorieren und und mit abstrakten adressen arbeiten: das ARD, aber ›die zuschauer des ARD‹ – die ZEIT, aber ›die leser der ZEIT‹ … Die abstrakten adressen wirken dann nur quantitativ: genügend leser, genügend zuschauer brauchts, wer da geht und wer da kommt, bleibt egal. Diese abstrakten adressen kann das internet nicht bilden, weil es eben nicht ein netz im netzwerk ist: eine abstrakte adresse ist nicht anwählbar; nur konkrete adressen sind zugelassen und jede adresse ist (gleichrangig) adresse; die ZEIT kann einen retweet nicht erzwingen, aber die 13-jährige schülerin aus einem sächsischen dorf einen Daß das internet massenmedial mißverstanden wird, liegt wohl häufig daran, daß es schräg zu den massenmedien steht: die versuchen über das netzwerk internet das netzwerk massenmedium zu produzieren; das funktioniert nur eingeschränkt, so alle nicht-privilegierten adressen mitmachen; das internet bietet keinen sonderadressen, die publikationsmittel sind (ersteinmal) gleich verteilt und da nicht-privilegierte adressen im internet überwiegen, ist verweigerung (extrem als »trollen«) hoch wahrscheinlich. (Und wie reagiert die massenmediale logik auf diesen konflikt?: sie fordert die übertragung der privilegierungs- und selektionskriterien: das problem mit dem internet läge in der flexibilität der bedingungslosigkeit der adressenbildung (jeder, soviele er will, unter jedem namen, etc.) und deren vernetzung; massenmedial ist das problem des internets das internet. (Man will also ein digitales massenmedium und denkt auch zugleich dauernd, damit hätte sie es zu tun.)
 
 ---
 
