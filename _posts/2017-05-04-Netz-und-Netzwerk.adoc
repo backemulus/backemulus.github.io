@@ -34,6 +34,7 @@ Redundanz ist das Prinzip des Internets, das untergründig aufrechterhalten wird
 _Es geht nicht um Plattformneutralität, sondern Plattformindifferenz._
 ____
 
+Das internet ist vernetzung, also der prozeß des entstehens und vergehens bestimmter netze; und das internet ist ein netz, also struktur von bestehenden netzen.
 
 Als netzwerk ist das internet unscharf; darin liegt das potential: in der fluidität und komplexität der vernetzung; diese ermöglicht sich durch die stabilität ihrer grundlegenden strukturkonstante: der adresse; denn wie komplex und fluide das internet netzwerkt, immer sind adressen beteiligt; und nur unter rückgriff auf adressen läßt sich vernetzung beobachten (wie sonst?); das internet selbst erschöpft sich aber nicht in den adressen, sondern schließt die prozeßseite ein; und gerade diese ist die noch größtenteils unerklärte neuheit:
 
