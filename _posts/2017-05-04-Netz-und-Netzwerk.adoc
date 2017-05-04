@@ -20,7 +20,7 @@ Ich gehe davon aus, daß sich die unterscheidungsseiten nicht zugleich beobachte
 
 Dies gilt auch anders herum: wer die prozeßstrukturen beobachten will, muß bereits wissen, die strukturen welchen prozesses er untersucht.
 
----
+### Das internet als Netzwerk
 
 Damit ist es die vernetzung von adressen (Die deutsche sprache bietet hier mit der subjektivierung auf -ung eine für diese verhältnisse angenehme doppeldeutigkeit, die sich gut an der »steuerung« erklärt: dies kann die steuermechanik oder aber den steuerprozeß meinen, insofern verstehen wir das internet als netzmechanik als auch die prozessuierung: wie adressen sich vernetzen und das adressen sich  
 
