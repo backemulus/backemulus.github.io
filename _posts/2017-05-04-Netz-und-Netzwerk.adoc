@@ -4,11 +4,17 @@
 
 VERSPÄTETER BEITRAG ZUR BLOGPARADE [<<footnote-1>>]
 
-Sprachüblichkeiten entsprechen begriffswünschen selten. Man kann dann normativ »sprachlogik« einfordern oder – und das ist hier gewollt – ein terminologieangebot machen; das zu unter
+Sprachüblichkeiten entsprechen begriffswünschen selten. Man kann dann normativ »sprachlogik« einfordern oder – und das ist hier gewollt – ein terminologieangebot machen:
+
+Was zumeist netzwerk genannt, und worüber zumeist gesprochen wird, nennen wir netz. Es ist die strukturseite, welche auf eine prozeßseite verweißt: das ent-stehen und ver-gehen des als das netz be-stehenden. Dagegen ist die prozeßseite die netz-wirkung bzw. mit bekannterer vokabel die vernetzung. Der begriff netzwerk soll vorbehalten sein für die bezeichnung des unterschiedenen, also sowohl der vernetzenden struktur(um)bildungen wie der strukturellen … . Dies ist ein abstraktionsschritt, der sich nur mit verweis auf beide unterscheidungsseiten rechtfertigt, denn nur innerhalb der unterscheidung ist eine beobachtung möglich, die sodann nur die beobachtung entweder der struktur oder des prozesses zuläßt. (Also gewissermaßen eine unschärferelation ähnlich der Heisenbergschen.) Wer die veränderungen von struktur beobachten will, der muß die struktur präsupponieren, also bereits einen festen strukturraum an welchem sich entwicklung beobachten läßt (und zwar an der unterscheidung von strukturkonstanten und strukturvariablen, also wieder struktur-, nicht prozeßmomenten. Von der strukturseite aus, beobachtet sich die andere seite indem die unterscheidung in die struktur … ) 
+
+(Zuhauf wird in zeitungsartikel immer die strukturseite von der strukturseite aus beobachtet – wodurch tautologien herauskommen. Wie: das, wer vernetzt sein will, sich vernetzen muß, oder daß das internet…) Wer (ein selteneres unterfangen) mit die strukturseite beobachtet, tut dies intelligenter von der prozeßseite, betrachtet also das netz unter präsupponierung der vernetzung (und das wort ist hier prozessual: also präsupponiert des: wir sind am netzen). Nutzen wir die metapher: das knüpfen eines netzes muß unterstellen, daß man ein netz knüpft (und nicht eine tischdecke), um den netzknüpfprozeß als netzknüpfprozeß zu beschreiben.Gleichzeitig kann dieses netz aber immer nur als ideal konstruiert gedacht werden, also immer nur als im prozeß empfindlich 8bis es fertig ist. Das beobachtete netz 
+
+Der ausdruck internet deutet auf den vorzug der strukturbeobachtung: die vernetzung zwischen den knoten – nicht die knotenbildungshaftigkeit der netzwirkung. 
 
 ---
 
-[[footnote-1]] [1] Die blogparade _Netz und Netzwerk_ wurde aufgerufen von Klaus http://twitter.com/kusanowsky[kusanowsky]:
+[[footnote-1, 1]] [1] Der aufruf zur blogparade _Netz und Netzwerk_:
 
 ++++
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">Aufruf zur Blogparade: &quot;Was ist der Unterschied zwischen Netz und Netzwerk?&quot;<br><br>[bis 30.04 hashtag <a href="https://twitter.com/hashtag/blgntzwrk?src=hash">#blgntzwrk</a>]<br><br>Bitte RT!</p>&mdash; Klaus Kusanowsky (@kusanowsky) <a href="https://twitter.com/kusanowsky/status/854803923751890944">April 19, 2017</a></blockquote>
