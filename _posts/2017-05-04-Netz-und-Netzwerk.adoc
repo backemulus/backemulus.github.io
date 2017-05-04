@@ -22,6 +22,8 @@ Dies gilt auch anders herum: wer die prozeßstrukturen beobachten will, muß ber
 
 ### Das internet als Netzwerk
 
+Das internet ist ein netzwerk. Nicht nur innoviert das internet eine neue struktur, sondern es innoviert zugleich neue prozesse der strukturbildung. Dies bedeutet, daß das internet nicht bloß als struktur innerhalb
+
 Damit ist es die vernetzung von adressen (Die deutsche sprache bietet hier mit der subjektivierung auf -ung eine für diese verhältnisse angenehme doppeldeutigkeit, die sich gut an der »steuerung« erklärt: dies kann die steuermechanik oder aber den steuerprozeß meinen, insofern verstehen wir das internet als netzmechanik als auch die prozessuierung: wie adressen sich vernetzen und das adressen sich  
 
 Das internet ist geprägt durch die bindung der vernetzungsstrukturen an bestehende netzmechaniken (also die regelung der adressenvergabe und adressenvernetzung ), wie anders herum die bindung der netzprozesse – wie adressen vergeben werden ist nicht unabhängig von den plattformen
