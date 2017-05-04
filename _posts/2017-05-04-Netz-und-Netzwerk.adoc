@@ -6,9 +6,12 @@ VERSPÄTETER BEITRAG ZUR BLOGPARADE [<<footnote-1>>]
 
 Sprachüblichkeiten entsprechen begriffswünschen selten; man kann dann mit »sprachlogik« gefolgschaft einfordern – oder sich begnügen, ein terminologieangebot zu machen.
 
+
+### Netz/Vernetzung
+
 Das netz ist strukturseite, welche wiederum auf eine prozeßseite verweist; die prozeßseite ist das __ent__-stehen und __ver__-gehen des als netz __be__-stehenden; die prozeßseite ist das ›netzwerken‹ (»es netzwerkt«) oder die ›vernetzung‹. 
 
-Das netzwerk bezeichnet die unterscheidung von netz und netzwerken; der begriff bleibt abstrakt: nicht feste entität, die verschiedene komponenten beinhaltet (system–teil), sondern nur insoweit »existent« als sich die unterscheidung durch das unterscheiden konstruiert und rekonstruiert <<footnote-2>>
+Das netzwerk die unterscheidung von netz und netzwerken; der begriff bleibt abstrakt: nicht feste entität, die verschiedene komponenten beinhaltet (system–teil), sondern nur insoweit »existent« als sich die unterscheidung durch das unterscheiden konstruiert und rekonstruiert <<footnote-2>>
 
 
 (Einschub: es lassen sich also entweder nur der strukturprozeß (was ändert sich?) oder die prozeßstruktur (wie ändert’s sich?) beobachten.
@@ -19,13 +22,9 @@ Dies gilt auch anders herum: wer die prozeßstrukturen beobachten will, muß ber
 
 ---
 
-Zwei reduktionistische mißverständnisse liegt: Das internet ist eine struktur; das internet wird als netz neben anderen netzen unter den bedingungen eines bestimmten prozesses beschrieben; zwei beispiele:
-
-. Das intrenet ist ein massenmedium; also: die einführung des fernsehers ist die einführung des internets. 
-
-.. (Etwas intelligenter nicht als massenmedium, sondern das internet als publikationstechnik innerhalb einer publikationstechnikentwicklung zu beobachten, ähnlich wie man sich schrift oder buchdruck erklärt. Dies scheint mir allerdings defizitär aus zwei gründen: 1. schwingt immer eine gewisse geschichtsphilosophie einer ständigen erweiterung von publikationstechniken mit, 2. würde das internet darauf reduziert, die publikationsstrukturen veränderten sich – ds stimmt zwar _auch_, aber es kann doch nicht behauptet werden, das internet wäre bloß: von der handschrift, über die druckschrift zum pixel. Nicht nur die publikation hat sich verändert, sondern überhaupt das verhältnis: produktion–publikation–rezeption; was eben vom wechsel von handschriftliche auf buchdruckerische publikation sich nicht änderte. 
-
- <<footnote-3>>
+Damit ist es die vernetzung von adressen (Die deutsche sprache bietet hier mit der subjektivierung auf -ung eine für diese verhältnisse angenehme doppeldeutigkeit, die sich gut an der »steuerung« erklärt: dies kann die steuermechanik oder aber den steuerprozeß meinen, insofern verstehen wir das internet als netzmechanik als auch die prozessuierung: wie adressen sich vernetzen und das adressen sich  
+ 
+Internet ist nicht bloß eine struktur Dies liegt an der doppelten elementarabhängigkeit des internets: das internet ist strukturabhängig von adressen und prozeßabhängig von der vernetzung von adressen. Dies erlaubt eine doppelte freiheit: Zum einen ist gleich, welche adressen vernetzt werden, solange sie vernetzt werden, zum anderen ist gleich, wie vernetzt wird, solange adressen vernetzt werden. Die vernetzung kann dezentral oder zentral, unmittelbar (adresse–adresse) oder mittelbar (adresse über adresse zu adresse, und zwar bis ins extremste steigerbar), minimal oder maximal (mindestens zwei, nach oben offen) stattfinden; oder sogar alles nebeneinander. So erlaubt das internet das auftreten massenmedialer strukturen, solange diese für sich funktionieren. 
 
 
 ____
@@ -34,9 +33,17 @@ Redundanz ist das Prinzip des Internets, das untergründig aufrechterhalten wird
 _Es geht nicht um Plattformneutralität, sondern Plattformindifferenz._
 ____
 
-Das internet ist vernetzung, also der prozeß des entstehens und vergehens bestimmter netze; und das internet ist ein netz, also struktur von bestehenden netzen.
 
 Als netzwerk ist das internet unscharf; darin liegt das potential: in der fluidität und komplexität der vernetzung; diese ermöglicht sich durch die stabilität ihrer grundlegenden strukturkonstante: der adresse; denn wie komplex und fluide das internet netzwerkt, immer sind adressen beteiligt; und nur unter rückgriff auf adressen läßt sich vernetzung beobachten (wie sonst?); das internet selbst erschöpft sich aber nicht in den adressen, sondern schließt die prozeßseite ein; und gerade diese ist die noch größtenteils unerklärte neuheit:
+
+
+
+Zwei reduktionistische mißverständnisse liegt: Das internet ist eine struktur; das internet wird als netz neben anderen netzen unter den bedingungen eines bestimmten prozesses beschrieben; zwei beispiele:
+
+. Das intrenet ist ein massenmedium; also: die einführung des fernsehers ist die einführung des internets. 
+
+.. (Etwas intelligenter nicht als massenmedium, sondern das internet als publikationstechnik innerhalb einer publikationstechnikentwicklung zu beobachten, ähnlich wie man sich schrift oder buchdruck erklärt. Dies scheint mir allerdings defizitär aus zwei gründen: 1. schwingt immer eine gewisse geschichtsphilosophie einer ständigen erweiterung von publikationstechniken mit, 2. würde das internet darauf reduziert, die publikationsstrukturen veränderten sich – ds stimmt zwar _auch_, aber es kann doch nicht behauptet werden, das internet wäre bloß: von der handschrift, über die druckschrift zum pixel. Nicht nur die publikation hat sich verändert, sondern überhaupt das verhältnis: produktion–publikation–rezeption; was eben vom wechsel von handschriftliche auf buchdruckerische publikation sich nicht änderte. 
+
 
 Auch massenmediale verknüpfung arbeitet mit adressen, allerdings können diese durch sehr starre (weil komplizierte) verknüpfungstechniken und privilegierung einzelner adressen (one-to-many, many-to-one) die adressen in conreta ignorieren und und mit abstrakten adressen arbeiten: das ARD, aber ›die zuschauer des ARD‹ – die ZEIT, aber ›die leser der ZEIT‹ … Die abstrakten adressen wirken dann nur quantitativ: genügend leser, genügend zuschauer brauchts, wer da geht und wer da kommt, bleibt egal. Diese abstrakten adressen kann das internet nicht bilden, weil es eben nicht ein netz im netzwerk ist: eine abstrakte adresse ist nicht anwählbar; nur konkrete adressen sind zugelassen und jede adresse ist (gleichrangig) adresse; die ZEIT kann einen retweet nicht erzwingen, aber die 13-jährige schülerin aus einem sächsischen dorf einen Daß das internet massenmedial mißverstanden wird, liegt wohl häufig daran, daß es schräg zu den massenmedien steht: die versuchen über das netzwerk internet das netzwerk massenmedium zu produzieren; das funktioniert nur eingeschränkt, so alle nicht-privilegierten adressen mitmachen; das internet bietet keinen sonderadressen, die publikationsmittel sind (ersteinmal) gleich verteilt und da nicht-privilegierte adressen im internet überwiegen, ist verweigerung (extrem als »trollen«) hoch wahrscheinlich. (Und wie reagiert die massenmediale logik auf diesen konflikt?: sie fordert die übertragung der privilegierungs- und selektionskriterien: das problem mit dem internet läge in der flexibilität der bedingungslosigkeit der adressenbildung (jeder, soviele er will, unter jedem namen, etc.) und deren vernetzung; massenmedial ist das problem des internets das internet. (Man will also ein digitales massenmedium und denkt auch zugleich dauernd, damit hätte sie es zu tun.)
 
