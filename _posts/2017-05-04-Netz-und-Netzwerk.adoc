@@ -9,9 +9,9 @@ Sprachüblichkeiten entsprechen begriffswünschen selten; folgender wortgebrauch
 
 ### Netz/Vernetzung
 
-Netz ist strukturseite, welche wiederum auf eine prozeßseite verweist; prozeßseite ist die vernetzung (oder das netzwerken, »es netzwerkt«), welches ist: das __ent__-stehen und __ver__-gehen des als netz __be__-stehenden.
+Das netzwerk ist unterscheidbar nach struktur- und prozeßseite; die strukturseite nenne ich das netz, die prozeßseite die vernetzung. Die beobachtung des netzwerks bekommt bekannte unschärfeprobleme, da bei beobachtung einer seite die andere unbestimmbar (eben unscharf) wird. Will man die strukturprozesse eines netzwerks beobachten, muß die struktur (das netz), dessen prozesse (veränderungen) es unterworfen ist, für die beobachtung präsupponiert werden. Ist unterstellt _was_ netz des netzwerks ist, läßt sich beobachten, _wie_ das netz wie das netz sich verändert: nämlich durch den wechsel von strukturvariablen (für die struktur indifferente veränderungen) und strukturkonstanten (fehler- und mängelercheinungen, destruktion, aber auch konstruktion.
 
-Das netzwerk die unterscheidung von netz und netzwerken; der begriff bleibt abstrakt: nicht feste entität, die verschiedene komponenten beinhaltet (system–teil), sondern nur insoweit »existent« als sich die unterscheidung durch das unterscheiden konstruiert und rekonstruiert <<footnote-2>>
+
 
 
 (Einschub: es lassen sich also entweder nur der strukturprozeß (was ändert sich?) oder die prozeßstruktur (wie ändert’s sich?) beobachten.
