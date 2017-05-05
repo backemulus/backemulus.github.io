@@ -78,8 +78,10 @@ Als netzwerk ist das internet unscharf; darin liegt das potential: in der fluidi
 [[footnote-1, 1]] [1] Der aufruf zur blogparade _Netz und Netzwerk_:
 
 ++++
+
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">Aufruf zur Blogparade: &quot;Was ist der Unterschied zwischen Netz und Netzwerk?&quot;<br><br>[bis 30.04 hashtag <a href="https://twitter.com/hashtag/blgntzwrk?src=hash">#blgntzwrk</a>]<br><br>Bitte RT!</p>&mdash; Klaus Kusanowsky (@kusanowsky) <a href="https://twitter.com/kusanowsky/status/854803923751890944">April 19, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ++++
 
 Siehe für weitere beiträge auch http://professio.ifwo.eu[Netz und Netzwerk] von http://twitter.com/adloquii[@adloquii] und die https://colloquium.ifwo.eu/2017/04/30/netz-und-netzwerk/[gleichnamige folge] seines https://colloquium.ifwo.eu[colloquium-podcasts] mit http://twitter.com/christopheus[@christopheus].
