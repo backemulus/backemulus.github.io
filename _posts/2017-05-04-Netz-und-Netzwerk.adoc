@@ -18,13 +18,29 @@ In seiner gesamtheit ist das netzwerk nicht tiefenscharf beobachtbar.
 
 
 
-### Das internet als netz
+### Das Internet als Netz
 
 Das internet ist nun als netz oder als netzwerk beschreibbar. Ich plädiere für letzteres, nachdem ich ersteres problematisiert habe:
 
 Das internet hat keine eigene struktur; eine netzwerkstruktur prozessiert im internet auf eine bestimmte (aber strukturvariable) weise: digital. Man führt gespräche über chatrooms oder videotelephonie, unterhält freundschaften über internetportale oder liest blogs anstelle von zeitschriften; es ist netz innerhalb eines netzwerks: es ist (bspw.) massenmedium neben massenmedien, unter veränderten physikalsichen (aber eben nur physikalischen) bedingungen. Aus dieser perspektive sind die vernetzungstechniken des internets primitive kompensation: vernetzung unter erschwerten bedingungen, das internet aus anlaß vernetzung (und das meint hier vor allem: die bedingungen für kommunikation) trotz einschränkungen fortzuführen. [Vgl. Kompensation und poetisches lesen] Dann bleibt fraglich, weshalb digitalität auch bei ausbleiben der einschränkungen weiter genutzt wird: warum chatten, wenn man sich doch treffen könnte? warum … 
 
-Man vermutet verblendung und fürchtet verfall (»digitale verhexung« sozusagen; der teufel hat nicht viel zeit, so hat er flux das internet erfunden! …) Diese
+Man vermutet verblendung und fürchtet verfall. (»digitale verhexung« sozusagen: »der teufel hat nicht viel zeit« [BL], so hat er flux das internet erfunden! …) Diese
+
+
+
+### Das Internet als Netzwerk
+
+
+Das internet als netzwerk ist besondert durch die minimalität der netzwerkstruktur, also der bedingungen unter denen vernetzung stattfinden; die minimalbedingung des internetvernetzung ist (neben der digitalität): eine verbindung benötigt mindestens zwei adressen, die verbunden werden; oder: eine adresse benötigt mindestens eine gegenadresse, mit der sie verbunden wird. Das netzwerk internet hält eine regel am leben: vernetze! Hierdurch ist die prozeßseite unbestimmt; dem prozeß ist es möglich selbst substrukteren auszubilden, die wieder prozessualisiert werden, unter der einzigen bedingung, daß die prozessualisierung der substruktur die netzwerkstruktur erfüllt: man denke an plattformen, die eigene .
+
+Insofern die netzwerkbedingungen des internets für jedes netzwerk grundsätzlich sind, können auch andere netzwerkstrukturen sich im netzwerk internet prozessieren: z.b. massenmedien; auch diese arbeiten mit der verknüpfung von adressen, nur sind massenmediale netzwerkstrukturen komplizierter (und starrer): so werden bestimmte adressen als zentraladressen privilegiert und nicht-zentrale adressen eingeschränkt, wodurch nicht-zentrale adressen in concreta ignoriert und nur noch als abstrakte adressen behandelt werden: der leser, der hörer, der zuschauer vs. die ARD, die ZEIT, die Journalistin, etc. Ist das verhältnis _nicht-zentrale adresse -> zentrale-adresse_ qualitativ, ist das umgedrehte verhältnis _zentrale adresse -> nicht-zentrale adresse_ vor allem quantitativ: wer schaut, zählt nicht, nur das genügend müssen schauen.
+
+Dies ist auch im internet prozessierbar, weil trotz der rigorosen adressenhierarchie und einseitigkeit problemlos digitalisiert werden kann und zugleich auch die netzwerkstruktur des internets prozessiert. Diese ertragbarkeit ist allerdings einseitig, denn das internet behandelt adressen wie adressen, und mehr als eine solche steht auch einer zeitung nicht zu verfügung; gegen die »probleme« des internets werden von dieser seite dann auch vor allem äußere regulierung vorgeschlagen: (massenmedialer) strukturerhalt durch aufklärung von menschen oder der integration bekannter selektionsmechanismen: ausschluß, hierarchisierung von aufmerksamkeit… Für das internet gilt aber ein bekanntes faszinationsprinzip: steht in der lüneburgerheide ein sockel mit einem roten knopf, so wird schon irgendwann einer vorbeikommen, der draufdrückt; steht der gleiche sockel auf dem Alexanderplatz, wird man nicht lange warten müssen; und stellt man 100 solcher sockel auf den Alex, wird man vor dem ersten drücker mit dem aufstellen nicht fertig. 
+
+
+
+
+
 
 
 
