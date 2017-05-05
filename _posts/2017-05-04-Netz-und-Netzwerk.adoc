@@ -27,6 +27,9 @@ Das internet hat keine eigene struktur; eine netzwerkstruktur prozessiert im int
 
 
 
+
+
+
 Das intrenet ist ein massenmedium; also: die einführung des fernsehers ist die einführung des internets. 
 
 .. (Etwas intelligenter nicht als massenmedium, sondern das internet als publikationstechnik innerhalb einer publikationstechnikentwicklung zu beobachten, ähnlich wie man sich schrift oder buchdruck erklärt. Dies scheint mir allerdings defizitär aus zwei gründen: 1. schwingt immer eine gewisse geschichtsphilosophie einer ständigen erweiterung von publikationstechniken mit, 2. würde das internet darauf reduziert, die publikationsstrukturen veränderten sich – ds stimmt zwar _auch_, aber es kann doch nicht behauptet werden, das internet wäre bloß: von der handschrift, über die druckschrift zum pixel. Nicht nur die publikation hat sich verändert, sondern überhaupt das verhältnis: produktion–publikation–rezeption; was eben vom wechsel von handschriftliche auf buchdruckerische publikation sich nicht änderte. 
