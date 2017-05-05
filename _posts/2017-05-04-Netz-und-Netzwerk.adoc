@@ -9,27 +9,21 @@ Sprachüblichkeiten entsprechen begriffswünschen selten; folgender wortgebrauch
 
 ### Netz/Vernetzung
 
-Das netzwerk ist vernetzung <<footnote-2>>, unterscheidbar nach struktur- und prozeßseite: auf der strukturseite sind die vernetzungsbedingungen bzw. die netzstruktur, die prozeßseite ist die vernetzung bzw. das netz.
+Das netzwerk ist vernetzung im doppelsinn, unterscheidbar nach struktur- und prozeßseite: die strukturseite bezeichnet die vernetzungsbedingungen, hier: die netzstruktur; die prozeßseite bezeichnet die sich durch vernetzung exekutierende netzstruktur, die ich hier netz nenne.
 
-Die beobachtung des netzwerks bekommt bekannte unschärfeprobleme, da bei beobachtung einer seite die andere unbestimmbar (eben unscharf) wird. Will man die strukturprozesse eines netzwerks beobachten, muß die struktur (das netz), dessen prozesse (veränderungen) es unterworfen ist, für die beobachtung präsupponiert werden. Ist unterstellt _was_ netz des netzwerks ist, läßt sich beobachten, _wie_ das netz wie das netz sich verändert: nämlich durch den wechsel von strukturvariablen (für die struktur indifferente veränderungen) und strukturkonstanten (fehler- und mängelercheinungen, destruktion, aber auch konstruktion.
+Die beobachtung des netzwerks leidet an einem unschärfeproblem, da jede struktur nur im und als prozeß beobachtbar ist und jeder prozeß nur durch strukturiertheit ein prozeß ist. Dies bedeutet, daß eine seite nur durch präsupposition der jweils anderen überhaupt beobachtbar ist. Wer das netz beobachtet (und das heißt hier ja: schaut, was das netz »macht«, wie es sich »verhält«, also: wie es prozessiert) präsupponiert eine sich darin exekutierende netzstruktur, an welcher veränderungen des netzes meßbar ist; beschaut wird der wandel von strukturmomenten, also der wechsel von strukturvariablen (stukturindifferente veränderungen des netzes) wie das auftauchen oder fernbleiben von strukturkonstanten, um daran die netzentwicklung überhaupt beurteilen zu können: fehler- und mangelerscheinungen, destruktion, konstruktion, etc. (Die struktur gibt also – nicht nur, aber auch – auskunft über die funktion.)
 
+Auf der anderen seite kann die netzstruktur nur an der aktualisierung der struktur in der strukturexekution durch den prozeß, eine netzwerkstruktur als nur an den sich realisierenden netzen erkennbar werden. Dafür muß feststehen, was netz innerhalb des netzwerks ist, an dem die netzwerkstruktur erarbeitet werden kann.
 
+Das netzwerk ist in seiner gesamtheit also nicht tiefenscharf beobachtbar.
 
-
-(Einschub: es lassen sich also entweder nur der strukturprozeß (was ändert sich?) oder die prozeßstruktur (wie ändert’s sich?) beobachten.
- 
-Ich gehe davon aus, daß sich die unterscheidungsseiten nicht zugleich beobachten lassen, sondern stets nur durch präsupponierung der einen seite und von dieser einen die jeweils andere beobachten läßt. Wer das netzwerken (den strukturprozeß) beobachtet, präsupponiert das netz (die struktur); die beobachtung setzt eine transtemporale (durch die zeit beständige) struktur und beobachtet deren prozeß über das auftauchen und verschwinden von strukturmomenten: strukturvariablen (strukturindifferente veränderung) und strukturkonstanten (fehler- und mangelerscheinungen, destruktion, aber auch: konstruktion); der prozeß wird in strukturbegriffen beschrieben, weil nur an der beständigkeit der präsupponierten struktur prozeß zu beobachten ist. An der metapher des netzes: der knüpfprozeß eines netzes ist als prozeß nur insofern beobachtbar, als das netz auch unfertig als netz unterstellt wird; ›fortschrittliche‹ und ›destruktive‹ veränderung wird dann an strukturkonstanten gemessen, indifferente veränderung an strukturvariabeln. Letzteres: »Ist halt durch die algen mit der zeit grün geworden.« – Ersteres: »Ach! als netz taugt das nicht mehr; die knoten haben sich gelöst.« oder vor fertigstellung: »Das ist doch noch kein richtiges netz…« »Wird noch, ich mach’s ja grad erst.« und insofern sich hier ›beschwert‹ wird, muß das netz unterstellt werden.
-
-Dies gilt auch anders herum: wer die prozeßstrukturen beobachten will, muß bereits wissen, die strukturen welchen prozesses er untersucht.
-
-
-
+Das internet ist nun als netz oder als netzwerk beschreibbar. Ich plädiere für letzteres, nachdem ich ersteres problematisiert habe:
 
 
 
 ### Das internet als netz
 
-Das internet ist bloß struktur, innerhalb derer sich netze bilden. Die facebook-freundschaft ist dann freundschaft, nur digital, Das internet wirkt dann defizitär, es wird als primitive kompensation ohne anlaß verstanden.. Vor dem mangel der exekution bestimmter netzstrukturen im internet muß gewarnt werden: eine freundschaft ist keine richtige freundschaft über das internet Das internet ist es dann schuld, daß alles so schnell geht (weil tausende zeitungen am tag eine ausgabe human und vernünftig war, die stündliche aktualisierung aber nicht)
+Das internet hat keine eigene struktur; eine netzwerkstruktur prozessiert im internet auf eine bestimmte (aber strukturvariable) weise: digital. Man führt gespräche über chatrooms oder videotelephonie, unterhält freundschaften über internetportale oder liest blogs anstelle von zeitschriften; es ist netz innerhalb eines netzwerks: beispielsweise der massenmedien
 
 
 
