@@ -29,22 +29,12 @@ Man vermutet verblendung und fürchtet verfall (»digitale verhexung« sozusagen
 
 
 
-
-
-
-Das intrenet ist ein massenmedium; also: die einführung des fernsehers ist die einführung des internets. 
-
-.. (Etwas intelligenter nicht als massenmedium, sondern das internet als publikationstechnik innerhalb einer publikationstechnikentwicklung zu beobachten, ähnlich wie man sich schrift oder buchdruck erklärt. Dies scheint mir allerdings defizitär aus zwei gründen: 1. schwingt immer eine gewisse geschichtsphilosophie einer ständigen erweiterung von publikationstechniken mit, 2. würde das internet darauf reduziert, die publikationsstrukturen veränderten sich – ds stimmt zwar _auch_, aber es kann doch nicht behauptet werden, das internet wäre bloß: von der handschrift, über die druckschrift zum pixel. Nicht nur die publikation hat sich verändert, sondern überhaupt das verhältnis: produktion–publikation–rezeption; was eben vom wechsel von handschriftliche auf buchdruckerische publikation sich nicht änderte. 
+hat sich verändert, sondern überhaupt das verhältnis: produktion–publikation–rezeption; was eben vom wechsel von handschriftliche auf buchdruckerische publikation sich nicht änderte. 
 
 
 Auch massenmediale verknüpfung arbeitet mit adressen, allerdings können diese durch sehr starre (weil komplizierte) verknüpfungstechniken und privilegierung einzelner adressen (one-to-many, many-to-one) die adressen in conreta ignorieren und und mit abstrakten adressen arbeiten: das ARD, aber ›die zuschauer des ARD‹ – die ZEIT, aber ›die leser der ZEIT‹ … Die abstrakten adressen wirken dann nur quantitativ: genügend leser, genügend zuschauer brauchts, wer da geht und wer da kommt, bleibt egal. Diese abstrakten adressen kann das internet nicht bilden, weil es eben nicht ein netz im netzwerk ist: eine abstrakte adresse ist nicht anwählbar; nur konkrete adressen sind zugelassen und jede adresse ist (gleichrangig) adresse; die ZEIT kann einen retweet nicht erzwingen, aber die 13-jährige schülerin aus einem sächsischen dorf einen Daß das internet massenmedial mißverstanden wird, liegt wohl häufig daran, daß es schräg zu den massenmedien steht: die versuchen über das netzwerk internet das netzwerk massenmedium zu produzieren; das funktioniert nur eingeschränkt, so alle nicht-privilegierten adressen mitmachen; das internet bietet keinen sonderadressen, die publikationsmittel sind (ersteinmal) gleich verteilt und da nicht-privilegierte adressen im internet überwiegen, ist verweigerung (extrem als »trollen«) hoch wahrscheinlich. (Und wie reagiert die massenmediale logik auf diesen konflikt?: sie fordert die übertragung der privilegierungs- und selektionskriterien: das problem mit dem internet läge in der flexibilität der bedingungslosigkeit der adressenbildung (jeder, soviele er will, unter jedem namen, etc.) und deren vernetzung; massenmedial ist das problem des internets das internet. (Man will also ein digitales massenmedium und denkt auch zugleich dauernd, damit hätte sie es zu tun.)
 
 
-### Das internet als Netzwerk
-
-Das internet sollte als netzwerk beschrieben werden; dies würde bedeuten, daß wo die struktur des internets (das netz) beschrieben wird, ist das internet nicht vollkommen beschrieben; das internet ist deshalb über eine reine strukturbeschreibung nicht zu verstehen, weil es nicht nur strukturen innoviert, sondern auch die strukturbildung; es bestht also aus seinen strukturen, wie aus seinem strukturwandel.
-
-Damit ist es die vernetzung von adressen (Die deutsche sprache bietet hier mit der subjektivierung auf -ung eine für diese verhältnisse angenehme doppeldeutigkeit, die sich gut an der »steuerung« erklärt: dies kann die steuermechanik oder aber den steuerprozeß meinen, insofern verstehen wir das internet als netzmechanik als auch die prozessuierung: wie adressen sich vernetzen und das adressen sich  
 
 Das internet ist geprägt durch die bindung der vernetzungsstrukturen an bestehende netzmechaniken (also die regelung der adressenvergabe und adressenvernetzung ), wie anders herum die bindung der netzprozesse – wie adressen vergeben werden ist nicht unabhängig von den plattformen
  
