@@ -31,6 +31,9 @@ Man vermutet verblendung und fürchtet verfall. (»digitale verhexung« sozusage
 ### Das Internet als Netzwerk
 
 
+### Massenmedien im Internet
+
+
 Das internet als netzwerk ist besondert durch die minimalität der netzwerkstruktur, also der bedingungen unter denen vernetzung stattfinden; die minimalbedingung des internetvernetzung ist (neben der digitalität): eine verbindung benötigt mindestens zwei adressen, die verbunden werden; oder: eine adresse benötigt mindestens eine gegenadresse, mit der sie verbunden wird. Das netzwerk internet hält eine regel am leben: vernetze! Hierdurch ist die prozeßseite unbestimmt; dem prozeß ist es möglich selbst substrukteren auszubilden, die wieder prozessualisiert werden, unter der einzigen bedingung, daß die prozessualisierung der substruktur die netzwerkstruktur erfüllt: man denke an plattformen, die eigene .
 
 Insofern die netzwerkbedingungen des internets für jedes netzwerk grundsätzlich sind, können auch andere netzwerkstrukturen sich im netzwerk internet prozessieren: z.b. massenmedien; auch diese arbeiten mit der verknüpfung von adressen, nur sind massenmediale netzwerkstrukturen komplizierter (und starrer): so werden bestimmte adressen als zentraladressen privilegiert und nicht-zentrale adressen eingeschränkt, wodurch nicht-zentrale adressen in concreta ignoriert und nur noch als abstrakte adressen behandelt werden: der leser, der hörer, der zuschauer vs. die ARD, die ZEIT, die Journalistin, etc. Ist das verhältnis _nicht-zentrale adresse -> zentrale-adresse_ qualitativ, ist das umgedrehte verhältnis _zentrale adresse -> nicht-zentrale adresse_ vor allem quantitativ: wer schaut, zählt nicht, nur das genügend müssen schauen.
