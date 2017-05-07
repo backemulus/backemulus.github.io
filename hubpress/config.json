@@ -10,7 +10,7 @@
     "description": "spintisieren statt wegwerfen",
     "logo": "/images/pfeil.png",
     "cover": "/images/mulusg.jpg",
-    "postsPerPage": "5",
+    "postsPerPage": "10",
     "disqus": "bterrier"
   },
   "socialnetwork": {
