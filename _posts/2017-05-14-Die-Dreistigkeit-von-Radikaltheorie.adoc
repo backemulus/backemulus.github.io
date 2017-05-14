@@ -1,4 +1,4 @@
-# Die Unfairness der Radikaltheorie
+# Die Dreistigkeit von Radikaltheorie
 :hp-tags: fairness, fundamental, Luhmann, radikal, systemtheorie, theorie, 
 :published_at: 2017-05-14
 
@@ -17,6 +17,14 @@ Fundamentaltheoretisch betrachtet muß der übertriebene theorieaufwand an und f
 Man will nicht glauben, erst recht aber nicht unterstellen (die akademie ist höflich!), daß diese systemtheorie – dieses ›radikale‹ produzieren, publizieren und reproduzieren – tatsächlich _verrückt_ ist. Nämlich einerseits unerhört – andererseits (und dadurch unerhört:) vom gegebenen aus immer nur ›negativ‹ als anderes (nicht mehr als: »nicht das hier«) beobacht- und erklärbar. 
 
 Das ist eine frechheit, weil es unterbindet, die theorie mit »vernünftigen gründen« ablehnen zu können. Übertragen: da hält sich einer beim spiel nicht an höflichkeitsregeln, reizt die spielregeln aus. Was bliebe? Fairness einfordern? [<<footnote-1>>]
+
+---
+
+[[img-fair]]
+.@ReisAgainst am 11.05.2017
+image::fair.png[@ReisAgainst-fair]
+
+---
 
 Man kann Luhmann als einen betrachten, der nicht triezen wollt: dann lag er mit einigem oder allem falsch. Man kann Luhmann als einen betrachten, der triezen wollt; dann bleiben zwei mögliche schlüsse: ihm »scharlatanerie« oder »stümperei« vorzuwerfen (und wäre das nur naiv oder nicht durchaus auch treffend?) oder …
 
