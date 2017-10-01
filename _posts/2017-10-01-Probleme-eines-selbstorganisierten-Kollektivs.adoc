@@ -2,25 +2,29 @@
 :hp-tags: adresse, aktion, berlin, oganisation, kollektiv, konzession, rolle, selbstorganisation, volksbühne
 :published_at: 2017-10-01
 
-*Ein Theoriepapier als Reflexionsbeitrag zum Was-auch-immer in der Volksbühne am Rosa-Luxemburg-PlatzEin Theoriepapier als Reflexionsbeitrag zum* Was-auch-immer *in der Volksbühne am Rosa-Luxemburg-Platz* 
+*Ein Theoriepapier als Reflexionsbeitrag zum* Was-auch-immer *in der Volksbühne am Rosa-Luxemburg-Platz* 
 
 ---
 
 Ein organisiertes Kollektiv kennt 
 
-.(1) bestimmbares Personal, 
-.(2) Zulassungsregulierung (explizite Selektion zur Erzeugung weniger oder mehr deutlicher Inklusions/Exklusions-Grenzen)
-.(3) Teilnahmeregulierung (Aktions- und Konzessionsforderungen)
-.(4) Bildung eines Personals (Vergabe von bestimmten Rollen an bestimmte Personen nach bestimmten Strukturen) und dadurch Verantwortungsverteilung (bzw. das Einrichten von Adressen für Verantwortungsforderungen) 
-.(5) stabile  Strukturen (von der Stabilisierung durch Konservationsprimat (kein Eingriff, wenn kein Problem oder keine bessere Lösung) bis zur Identifizierung des Kollektivs mit einzelnen Sturkturmomenten).
+(1) bestimmbares Personal, 
 
-Das organisierte Kollektiv beherrscht der Organisationszwang, insofern dieses nicht nur überhaupt organisiert werden muß, sondern  die Organisation selbst nach Organisierung bedarf, um als organisiert zu gelten. Nach dieser Logik ist Selbstorganisation unsicher, insofern die Organisation keine vorbereiteten Strukturen für die Organisierung der Organisation bereitstellt und sich deshalb immer selbst zum Problem wird, ja, sich selbst zum Problem macht. Zur Selbstorganisation gehört auch immer die Organisierung DER Organisation, während gleichzeitiger Organisierung DURCH diese Organisation. (Man wird dann anerkennen müssen, daß dieses Problem nicht auflösbar, sondern nur mitzutragen ist. Ähnlich wie Forschung immer Nichtwissen voraussetzt.)
+(2) Zulassungsregulierung (explizite Selektion zur Erzeugung weniger oder mehr deutlicher Inklusions/Exklusions-Grenzen)
+
+(3) Teilnahmeregulierung (Aktions- und Konzessionsforderungen)
+
+(4) Bildung eines Personals (Vergabe von bestimmten Rollen an bestimmte Personen nach bestimmten Strukturen) und dadurch Verantwortungsverteilung (bzw. das Einrichten von Adressen für Verantwortungsforderungen) 
+
+(5) stabile  Strukturen (von der Stabilisierung durch Konservationsprimat (kein Eingriff, wenn kein Problem oder keine bessere Lösung) bis zur Identifizierung des Kollektivs mit einzelnen Sturkturmomenten).
+
+Das organisierte Kollektiv beherrscht der Organisationszwang, insofern dieses nicht nur überhaupt organisiert werden muß, sondern  die Organisation selbst nach ›Organisierung‹ bedarf. Nach dieser Logik ist Selbstorganisation unsicher, weil eine solche Organisation keine vorbereiteten Strukturen für die Organisierung zur Organisation bereitstellt und sich deshalb immer selbst zum Problem wird, sich selbst zum Problem _macht_. Zur Selbstorganisation gehört auch immer die zeitdifferente …… Organisierung _zur_ Organisation bei gleichzeitiger Organisierung _durch_ eben diese Organisation. (Man wird dann anerkennen müssen, daß dieses Problem nicht auflösbar, sondern nur mitzutragen ist. Ähnlich wie Forschung immer Nichtwissen voraussetzt.)
 
 ---
 
-Dem selbstorganisierten Kollektiv stellen sich dann folgende Probleme:
+Dem selbstorganisierten Kollektiv(2) stellen sich dann folgende Probleme:
 
-(ad 1) unbestimmte Zugehörigkeit der Personen (kein Personal) führt zu Problemen in der Adressierung von außen und innen. Während das Problem innerhalb vor allem auf die Organisationsfrage zurückfällt (s.o.), also als Problem konstitutiv für selbstorganisierte Kollektive ist, ist jenes der Adressierung von außen vor allem das Problem der beiderseitigen Irritation durch die Konfrontation eines organisierten und eines selbstorganisierten Kollektivs – erst recht, wo die Personen beidseitig zugeordnet werden müssen. [Und nichtmal Überschneidungen können hier sicher festgestellt werden.] Der Politiker fragt nach den Verantwortlichen und ist von deren Ausbleiben irritiert; irritiert aber seinerseits das selbstorganisierte Kollektiv durch den Versuch der Implementierung seiner Rolle in die Selbstorganisation (die er aus seiner Rolle nur als mangelhafte Organisation identifiziert). Er will, sozusagen, das Geschehen in vorliegende Organisationsstrukturen durch Anregungen zur Aktualisierung derselbem assimilieren. (Lederer: »Ich/wir bin/sind für Euch verantwortlich.«)
+(ad 1) Unbestimmte Zugehörigkeit der Personen (kein Personal) führt zu Problemen in der Adressierung von außen und innen. Während das Problem innerhalb vor allem auf die Organisationsfrage zurückfällt (s.o.), also als Problem konstitutiv für selbstorganisierte Kollektive ist, ist jenes der Adressierung von außen vor allem das Problem der beiderseitigen Irritation durch die Konfrontation eines organisierten und eines selbstorganisierten Kollektivs – erst recht, wo die Personen beidseitig zugeordnet werden müssen. [Und nichtmal Überschneidungen können hier sicher festgestellt werden.] Der Politiker fragt nach den Verantwortlichen und ist von deren Ausbleiben irritiert; irritiert aber seinerseits das selbstorganisierte Kollektiv durch den Versuch der Implementierung seiner Rolle in die Selbstorganisation (die er aus seiner Rolle nur als mangelhafte Organisation identifiziert). Er will, sozusagen, das Geschehen in vorliegende Organisationsstrukturen durch Anregungen zur Aktualisierung derselbem assimilieren. (Lederer: »Ich/wir bin/sind für Euch verantwortlich.«)
 
 (ad 2) Schwache Form der Zulassungsregulierung (in diesem Fall versteht man sich ja mindestens als antirassistisch, antifeministisch und queer und setzt auch hiermit Voraussetzungen, die dann aber nicht zwingend immer, sondern immer nur im zwingenden Fall durchgesetzt werden müssen). Auch dies führt zu den genannten Adressierungsproblemen. Weiter muß es Kompensationsmechanismen für nun wahrscheinlicher werdende Dissense geben, die in ihrer Dauerhaftigkeit zu ›ertragen‹ den Mitgliedern abverlangt wird (man könnte statt von Konzession von Passion sprechen, s. (ad 3)), die dann aber durch ständige Diskussionsoffenheit (also Ausnutzung von Zeitressourcen) aufgefangen werden müssen. Dies scheint aber auch durch die Fluidität der Teilnahme erleichtert zu werden (vgl. (ad 3)).
 
