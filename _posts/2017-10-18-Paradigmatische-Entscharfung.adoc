@@ -1,5 +1,5 @@
 # Paradigmatische Entschärfung
-:hp-tags: paradigma, schärfe, unschärfe,
+:hp-tags: experiment, paradigma, schärfe, unschärfe,
 :published_at: 2017-10-18
 
 Die sache um bestimmtheit wird noch unter bedingungen von bestimmtheit ausgetragen. Deren potential zur »mängelverdeckung« verkommt, seit durch die erfindung von unschärfe (2)
