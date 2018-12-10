@@ -173,6 +173,20 @@ td, th{ padding: 0; }
    2. General - Setting up some base styles
    ========================================================================== */
 
+/* New LibreBaskerville Fonts */
+
+@font-face {font-family: "Libre Baskerville";
+   src:url("../fonts/LibreBaskerville-Regular.ttf") format("truetype");}
+
+@font-face {font-family: "Libre Baskerville";
+   src:url("../fonts/LibreBaskerville-Bold.ttf") format("truetype");
+   font-weight: bold;}
+
+@font-face {font-family: "Libre Baskerville";
+   src:url("../fonts/LibreBaskerville-Italic.ttf") format("truetype");
+   font-stye: italic;}
+      
+
 /* New Linux Libertine Fonts */
 
 @font-face {font-family: "LinBiolinum";
@@ -206,7 +220,7 @@ html {
 body {
     height: 100%;
     max-height: 100%;
-    font-family: "LinBiolinum";
+    font-family: "Libre Baskerville";
     letter-spacing: 0.01rem;
     font-size: 1.9rem;
     line-height: 1.70em;
