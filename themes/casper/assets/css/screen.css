@@ -175,16 +175,8 @@ td, th{ padding: 0; }
 
 /* New LibreBaskerville Fonts */
 
-@font-face {font-family: "Libre Baskerville";
-   src:url("../fonts/LibreBaskerville-Regular.ttf") format("truetype");}
-
-@font-face {font-family: "Libre Baskerville";
-   src:url("../fonts/LibreBaskerville-Bold.ttf") format("truetype");
-   font-weight: bold;}
-
-@font-face {font-family: "Libre Baskerville";
-   src:url("../fonts/LibreBaskerville-Italic.ttf") format("truetype");
-   font-stye: italic;}
+@font-face {font-family: "Libre Baskerville",
+   src:url("https://fonts.googleapis.com/css?family=Libre+Baskerville") format("truetype");}
       
 
 /* New Linux Libertine Fonts */
