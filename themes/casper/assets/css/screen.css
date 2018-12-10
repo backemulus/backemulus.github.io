@@ -215,8 +215,8 @@ body {
     font-family: "Libre Baskerville";
     letter-spacing: 0.01rem;
     font-size: 1.6rem;
-    line-height: 1.70em;
-    color: #363636;
+    line-height: 1.4em;
+    color: #000000;
     -webkit-font-feature-settings: 'kern' 1;
     -moz-font-feature-settings: 'kern' 1;
     -o-font-feature-settings: 'kern' 1;
