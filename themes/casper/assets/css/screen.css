@@ -247,7 +247,7 @@ h4, h5, h6 {
     color: #00065a;
     line-height: 1.15em;
     margin: 0 0 0.4em 0;
-    font-family: "LinBiolinum";
+    font-family: "Libre Baskerville";
     text-rendering: geometricPrecision;
 }
 
@@ -910,7 +910,7 @@ body.nav-opened .nav {
     font-size: 4.5rem;
     font-weight: 500;
     letter-spacing: 0.03rem;
-    font-family: "LinLibertine";
+    font-family: "Libre Baskerville";
     color: #584f47;
 }
 
@@ -919,7 +919,7 @@ body.nav-opened .nav {
     font-size: 2.45rem;
     line-height: 1.5em;
     font-weight: 500;
-    font-family: "LinLibertine";
+    font-family: "Libre Baskerville";
     letter-spacing: 0.01rem;
     color: rgba(120,104,89,0.8);
 }
@@ -1001,7 +1001,7 @@ body:not(.post-template) .post-title {
 .post-meta {
     display: block;
     margin: 1.75rem 0 0 0;
-    font-family: "LinBiolnum";
+    font-family: "Libre Baskerville";
     font-size: 1.5rem;
     line-height: 2.2rem;
     color: #9EABB3;
