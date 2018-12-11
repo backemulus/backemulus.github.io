@@ -1441,7 +1441,7 @@ body:not(.post-template) .post-title {
 
 .read-next-story h2 {
     margin-top: 1rem;
-    color: #fff;
+    color: #33ccff;
 }
 
 .read-next-story p {
@@ -1464,7 +1464,7 @@ body:not(.post-template) .post-title {
 }
 
 .read-next-story.no-cover h2 {
-    color: rgba(0,0,0,0.8);
+    color: #33ccff;
 }
 
 .read-next-story.no-cover p {
