@@ -237,7 +237,7 @@ h4, h5, h6 {
     -webkit-font-feature-settings: 'dlig' 1, 'liga' 1, 'lnum' 1, 'kern' 1;
     -moz-font-feature-settings: 'dlig' 1, 'liga' 1, 'lnum' 1, 'kern' 1;
     -o-font-feature-settings: 'dlig' 1, 'liga' 1, 'lnum' 1, 'kern' 1;
-    color: #33ccff;
+    color: #D6EDFF;
     line-height: 1.15em;
     margin: 0 0 0.4em 0;
     font-family: "Libre Baskerville";
@@ -338,12 +338,12 @@ blockquote {
     box-sizing: border-box;
     margin: 1.75em 0 1.75em -2.2em;
     padding: 0 0 0 1.75em;
-    border-left: #00065a 0.4em solid;
+    border-left: #33ccff 0.4em solid;
 }
 
 blockquote p {
     margin: 0.8em 0;
-    color: #00065a;
+    color: #33ccffa;
   
 }
 
@@ -556,7 +556,7 @@ body.nav-opened .site-wrapper {
 
 .main-nav a {
     text-decoration: none;
-    font-family: 'LinBiolinum';
+    font-family: 'Libre Baskerville';
 }
 
 /* Navigation */
