@@ -30,7 +30,8 @@ html {
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%
 }
-body { margin: 5; }
+body { margin: 0; }
+
 article, aside, details,
 figcaption, figure,
 footer, header,
@@ -245,13 +246,13 @@ h4, h5, h6 {
 
 h1 {
     font-size: 4rem;
-    letter-spacing: -2px;
+    letter-spacing: 0px;
     text-indent: -3px;
 }
 
 h2 {
     font-size: 3.6rem;
-    letter-spacing: -1px;
+    letter-spacing: 0px;
 }
 
 h3 {
@@ -271,13 +272,13 @@ h6 {
 }
 
 a {
-    color: #00065a;
+    color: ##33ccff;
    
 }
 
 a:hover {
     color: #00065a;
-    background-color: #a8abd2;
+    background-color: #ffffff;
 }
 
 p, ul, ol, dl {
@@ -947,7 +948,7 @@ body.nav-opened .nav {
 /* Every post, on every page, gets this style on its <article> tag */
 .post {
     position: relative;
-    width: 80%;
+    width: 60%;
     max-width: 710px;
     margin: 4rem auto;
     padding-bottom: 4rem;
