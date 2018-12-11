@@ -272,12 +272,12 @@ h6 {
 }
 
 a {
-    color: ##33ccff;
+    color: #33ccff;
    
 }
 
 a:hover {
-    color: #00065a;
+    color: #33ccff;
     background-color: #ffffff;
 }
 
@@ -904,7 +904,7 @@ body.nav-opened .nav {
     font-weight: 500;
     letter-spacing: 0.03rem;
     font-family: "Libre Baskerville";
-    color: #33ccff;
+    color: rgba(120,104,89,0.8);
 }
 
 .page-description {
