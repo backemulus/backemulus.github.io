@@ -8,9 +8,9 @@
   "site": {
     "title": "",
     "description": "",
-    "logo": "/images/pfeil.png",
-    "cover": "/images/mulusg.jpg",
-    "postsPerPage": "9",
+    "logo": "",
+    "cover": "/images/mulusbanner4.png",
+    "postsPerPage": "7",
     "disqus": ""
   },
   "socialnetwork": {
