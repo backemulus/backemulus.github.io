@@ -237,7 +237,7 @@ h4, h5, h6 {
     -webkit-font-feature-settings: 'dlig' 1, 'liga' 1, 'lnum' 1, 'kern' 1;
     -moz-font-feature-settings: 'dlig' 1, 'liga' 1, 'lnum' 1, 'kern' 1;
     -o-font-feature-settings: 'dlig' 1, 'liga' 1, 'lnum' 1, 'kern' 1;
-    color: #eed977;
+    color: #e4b470;
     line-height: 1.15em;
     margin: 0 0 0.4em 0;
     font-family: "Libre Baskerville";
@@ -272,12 +272,12 @@ h6 {
 }
 
 a {
-    color: #eed977;
+    color: #e4b470;
    
 }
 
 a:hover {
-    color: #e4b470;
+    color: #eed977;
     background-color: #ffffff;
 }
 
@@ -343,7 +343,7 @@ blockquote {
 
 blockquote p {
     margin: 0.8em 0;
-    color: #eed977;
+    color: #e4b470;
   
 }
 
