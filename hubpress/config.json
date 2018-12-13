@@ -8,7 +8,7 @@
   "site": {
     "title": "",
     "description": "",
-    "logo": "",
+    "logo": "/images/m.png",
     "cover": "/images/mulusbanner4.png",
     "postsPerPage": "7",
     "disqus": ""
