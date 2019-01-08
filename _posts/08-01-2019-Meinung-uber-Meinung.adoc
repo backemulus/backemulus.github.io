@@ -2,7 +2,12 @@
 :hp-tags: gesellschaft, kritik, 
 :published_at: 08-01-2019
 
-Kritik ist die Meinung über eine Meinung, oder Meinung als Reaktion auf eine Meinung.1 Der kritische Leser ist ein reagierender Leser (Schlegel). Das hat jeder mindestens mit der Alpabetisierung geübt .(Und heute sind selbst Analphabeten alphabetisiert.) Nun ist die Standarform der Meinungsbekundung die Äußerung der Meinung über Meinungen. Wo eine Meinung "nur" Meinung ist, da zieht das kritische Training so fix, daß die reine Bekundung zweifach als kritische Beobachtet wird: nämlich einmal als unkritische Meinung, insofern sie keine wirkliche Kritik -- und dann als unkritische Meinung, insofern sie eine mangelhafte ist.2 Bereits das 18. Jahrhundert konnte sich, ohne daß dies groß Aufmerksamkeit gewürdigt hätte, ein, sogar das kritische Jahrhundert nennen. Das klingt heute lächerlich nicht, weil es weniger, sondern weil es umso mehr stimmt: Niemand würde betonen, wir befänden uns im Jahrhundert der Sprache oder des Buchdrucks. Man weiß, es gab mehrere. Wer würde schon betonen, er sei ein Mensch mit zwei Armen? 3
+### 1
+
+Kritik ist die Meinung über eine Meinung, oder Meinung als Reaktion auf eine Meinung.<<bookmark-1>> Der kritische Leser ist ein reagierender Leser (Schlegel). Das hat jeder mindestens mit der Alpabetisierung geübt .(Und heute sind selbst Analphabeten alphabetisiert.) Nun ist die Standarform der Meinungsbekundung die Äußerung der Meinung über Meinungen. Wo eine Meinung "nur" Meinung ist, da zieht das kritische Training so fix, daß die reine Bekundung zweifach als kritische Beobachtet wird: nämlich einmal als unkritische Meinung, insofern sie keine wirkliche Kritik -- und dann als unkritische Meinung, insofern sie eine mangelhafte ist.2 Bereits das 18. Jahrhundert konnte sich, ohne daß dies groß Aufmerksamkeit gewürdigt hätte, ein, sogar das kritische Jahrhundert nennen. Das klingt heute lächerlich nicht, weil es weniger, sondern weil es umso mehr stimmt: Niemand würde betonen, wir befänden uns im Jahrhundert der Sprache oder des Buchdrucks. Man weiß, es gab mehrere. Wer würde schon betonen, er sei ein Mensch mit zwei Armen? 3
+
+
+[[bookmark-1, {1}]]/^1^ Etwas anderes wäre die moralische Mahnung, insofern die nie Reaktion auf die Meinung, sondern Reaktion auf die Meinungsbekundung ist (»Sowas sagt man nicht«. Aber man sagt es eben auch nicht, wenn es nicht gesagt wurde.)
 
 Gesellschaftliche Notwendigkeiten setzen sich unbedingter durch als körperliche Nötigkeiten.4
 
@@ -20,7 +25,7 @@ Was bliebe?
 
 Aufklärungstexte und -videos, in welchen Verschwörungstheorien widerlegt oder Scharlatanerie aufgedeckt wird, sind wirkungslos. Sie werden nur von Aufgeklärten und Abgedeckten gelesen und geschaut. Was dann trotzdem Aufmerksamkeit regulieren kann, ist Spott. (Beispiel hier) Spott läßt sich schwer entziehen, er ist im starken Sinne provokativ und funktioniert, gleich wie der Anschluß gewählt wird: Man kann sich anschließen; die Einstellung teilen, aber die Methoden verurteilen; alles ablehnen und gehässig oder gewitzt zurückfeuern; anderer Meinung sein und trotzdem lachen. Wie auch immer: der Entzug gestaltet sich schwierig, umso witziger die Provokation gesetzt wird. Man verläßt sich mehr auf den Verträglichkeit im Streit als die Verträglichkeit der Streitvermeidung. Im Sinne Alexander Hamiltons: »Opinion, whether well or ill founded, is the governing principle of human affairs.« Und der gute Spaß braucht nur die Meinung, die nicht zurückgehalten werden kann.
 
-1 Etwas anderes wäre die moralische Mahnung, insofern die nie Reaktion auf die Meinung, sondern Reaktion auf die Meinungsbekundung ist (»Sowas sagt man nicht«. Aber man sagt es eben auch nicht, wenn es nicht gesagt wurde.)
+
 
 2 Aber beide male eben nach den Maßstäben einer Kritik bewertet. Also weniger Nicht-Kritik als Mißkritik.
 
