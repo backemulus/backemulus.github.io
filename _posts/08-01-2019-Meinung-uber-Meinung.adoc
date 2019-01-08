@@ -4,10 +4,12 @@
 
 ### 1
 
-Kritik ist die Meinung über eine Meinung, oder Meinung als Reaktion auf eine Meinung.<<bookmark-1>> Der kritische Leser ist ein reagierender Leser (Schlegel). Das hat jeder mindestens mit der Alpabetisierung geübt .(Und heute sind selbst Analphabeten alphabetisiert.) Nun ist die Standarform der Meinungsbekundung die Äußerung der Meinung über Meinungen. Wo eine Meinung "nur" Meinung ist, da zieht das kritische Training so fix, daß die reine Bekundung zweifach als kritische Beobachtet wird: nämlich einmal als unkritische Meinung, insofern sie keine wirkliche Kritik -- und dann als unkritische Meinung, insofern sie eine mangelhafte ist.2 Bereits das 18. Jahrhundert konnte sich, ohne daß dies groß Aufmerksamkeit gewürdigt hätte, ein, sogar das kritische Jahrhundert nennen. Das klingt heute lächerlich nicht, weil es weniger, sondern weil es umso mehr stimmt: Niemand würde betonen, wir befänden uns im Jahrhundert der Sprache oder des Buchdrucks. Man weiß, es gab mehrere. Wer würde schon betonen, er sei ein Mensch mit zwei Armen? 3
+Kritik ist die Meinung über eine Meinung, oder Meinung als Reaktion auf eine Meinung.^<<bookmark-1>>^ Der kritische Leser ist ein reagierender Leser (Schlegel). Das hat jeder mindestens mit der Alpabetisierung geübt .(Und heute sind selbst Analphabeten alphabetisiert.) Nun ist die Standarform der Meinungsbekundung die Äußerung der Meinung über Meinungen. Wo eine Meinung "nur" Meinung ist, da zieht das kritische Training so fix, daß die reine Bekundung zweifach als kritische Beobachtet wird: nämlich einmal als unkritische Meinung, insofern sie keine wirkliche Kritik -- und dann als unkritische Meinung, insofern sie eine mangelhafte ist.^<<bookmark-2>>^ Bereits das 18. Jahrhundert konnte sich, ohne daß dies groß Aufmerksamkeit gewürdigt hätte, ein, sogar das kritische Jahrhundert nennen. Das klingt heute lächerlich nicht, weil es weniger, sondern weil es umso mehr stimmt: Niemand würde betonen, wir befänden uns im Jahrhundert der Sprache oder des Buchdrucks. Man weiß, es gab mehrere. Wer würde schon betonen, er sei ein Mensch mit zwei Armen? 3
 
 
-[[bookmark-1, {1}]]/^1^ Etwas anderes wäre die moralische Mahnung, insofern die nie Reaktion auf die Meinung, sondern Reaktion auf die Meinungsbekundung ist (»Sowas sagt man nicht«. Aber man sagt es eben auch nicht, wenn es nicht gesagt wurde.)
+[[bookmark-1, 1]]^1^ Etwas anderes wäre die moralische Mahnung, insofern die nie Reaktion auf die Meinung, sondern Reaktion auf die Meinungsbekundung ist (»Sowas sagt man nicht«. Aber man sagt es eben auch nicht, wenn es nicht gesagt wurde.)
+
+[[bookmark-2, 2]]^2^ Aber beide male eben nach den Maßstäben einer Kritik bewertet. Also weniger Nicht-Kritik als Mißkritik.
 
 Gesellschaftliche Notwendigkeiten setzen sich unbedingter durch als körperliche Nötigkeiten.4
 
@@ -27,7 +29,7 @@ Aufklärungstexte und -videos, in welchen Verschwörungstheorien widerlegt oder 
 
 
 
-2 Aber beide male eben nach den Maßstäben einer Kritik bewertet. Also weniger Nicht-Kritik als Mißkritik.
+
 
 3 So kann dann der einarmige oder armlose allein sich noch auf seine Artistik was einbilden. Und man liest Sloterdijk zu langweilig, daß er doch Verstümmelung wohl nicht fordern würde, so könne das doch nicht gemeint sein. Man läse ihn richtiger, daß sich Verstümmelung schlicht nicht lohnt, weil auch das längst keine Herausforderung ist. (In Sloterschwafel: keine Vertikalspannung erzeugt.)
 
