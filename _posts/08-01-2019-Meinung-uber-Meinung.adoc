@@ -11,13 +11,13 @@ Kritik ist die Meinung über eine Meinung, oder Meinung als Reaktion auf eine Me
 Gesellschaftliche Notwendigkeiten setzen sich unbedingter durch als körperliche Nötigkeiten.^<<bookmark-4>>^
 
 ____
-[[bookmark-1, 1]]^1^ Etwas anderes wäre die moralische Mahnung, insofern diese nie Reaktion auf die Meinung, sondern Reaktion auf die Meinungsbekundung ist (»Sowas sagt man nicht«. Aber man sagt es eben auch nicht, wenn es nicht gesagt wurde.)
+[[bookmark-1, 1]]^1^ [.small]#Etwas anderes wäre die moralische Mahnung, insofern diese nie Reaktion auf die Meinung, sondern Reaktion auf die Meinungsbekundung ist (»Sowas sagt man nicht«. Aber man sagt es eben auch nicht, wenn es nicht gesagt wurde.)#
 
-[[bookmark-2, 2]]^2^ Aber beide male eben nach den Maßstäben einer Kritik bewertet. Also weniger Nicht-Kritik als Mißkritik.
+[[bookmark-2, 2]]^2^ [.small]#Aber beide male eben nach den Maßstäben einer Kritik bewertet. Also weniger Nicht-Kritik als Mißkritik.#
 
-[[bookmark-3, 3]]^3^ So kann dann der einarmige oder armlose allein sich noch auf seine Artistik was einbilden. Und man liest Sloterdijk zu langweilig, daß er doch Verstümmelung wohl nicht fordern würde, so könne das doch nicht gemeint sein. Man läse ihn richtiger, daß sich Verstümmelung schlicht nicht lohnt, weil auch das längst keine Herausforderung ist. (In Sloterschwafel: keine Vertikalspannung erzeugt.)
+[[bookmark-3, 3]]^3^ [.small]#So kann dann der einarmige oder armlose allein sich noch auf seine Artistik was einbilden. Und man liest Sloterdijk zu langweilig, daß er doch Verstümmelung wohl nicht fordern würde, so könne das doch nicht gemeint sein. Man läse ihn richtiger, daß sich Verstümmelung schlicht nicht lohnt, weil auch das längst keine Herausforderung ist. (In Sloterschwafel: keine Vertikalspannung erzeugt.)#
 
-[[bookmark-4, 4]] ^4^ Indizienbeweis: Gegen gesellschaftliches Weh und Ach ist keine Technik effektiv, während man allein schon mit Verweis auf die Brille und Psychopharmaka uns für 
+[[bookmark-4, 4]] ^4^ [.small]#Indizienbeweis: Gegen gesellschaftliches Weh und Ach ist keine Technik effektiv, während man allein schon mit Verweis auf die Brille und Psychopharmaka uns für #
 ____
 
 ### 2
@@ -26,7 +26,13 @@ Wenn so gut die Kritik besorgt ist, muß um sie gesorgt sich nicht werden. Die K
 
 Die Frage: »Was kommt nach der Kritik?«, will sie eine Forschungsfrage sein und nicht Blödelei, kann die Vermeidung oder Verhinderung von Kritik nicht meinen. Oder: zwar kann sie es meinen; aber dann sollte man mit Beleidigung auf Beleidigung reagieren; mit dem Witz des Kinderstreits: »Immer zweimal mehr als du!« 
 
-"Was kommt nach der Kritik?" Soll die Frage Forschung bringen, sollte sie ihr Verhältnis zur Kritik zu unbedacht behandeln, wie man den Ratschlag eines Arztes, das Rauchen besser aufzugeben, von dessem eigenen Rauchverhalten beeinflussen lassen sollte.+ 
+"Was kommt nach der Kritik?" Soll die Frage Forschung bringen, sollte sie ihr Verhältnis zur Kritik zu unbedacht behandeln, wie man den Ratschlag eines Arztes, das Rauchen besser aufzugeben, von dessem eigenen Rauchverhalten beeinflussen lassen sollte.^<<bookmark-5>>
+
+____
+[[bookmark-5, 5]]^5^ [.small]#Einem rauchenden Arzt, der vom Rauchen abrät, weniger zu Vertrauen, ist blindgläubige Kohärenzwut. Eher das Gegenteil ist war: Denn hier kann ausgeschlossen werden, daß den Ratschlag eine Animosität motiviert. An Impfgegnern oder Reichsbürgern ist der Grusel ihr exzentrisches Selbstvertrauen. Wer an Schwermetalle in Impfmitteln glaubt, dem ist nicht weniger, sondern mehr zu vertrauen, weil er Überzeugungen nicht so leichtfertig handhabt, wie seine Kleiderwahl am morgen.#
+____
+
+### 3
 
 Kritik bringt nichts. Weil Kritik einiges bringt: nämlich einiges an Kritik. Noch keine Kritik hat anderes Handeln motiviert. Warum auch? "Mach du doch!", wäre eine verständliche Erwiderung. Der Professor weiß, weshalb die Welt schlecht ist -- hält sich aber ersma mit der Buchpublikation auf. Dringend, aber nicht dringender als die Beststellerliste ist das Motto. Nichts sollte ernst genommen werden, was sich selbst so ernst nimmt.
 
@@ -39,4 +45,3 @@ Bestimmtes Fremdverhalten durch Mahnung zu provozieren, ist Mission. Und Mission
 
 
 
-+ Einem rauchenden Arzt, der vom Rauchen abrät, weniger zu Vertrauen, ist blindgläubige Kohärenzwut. Eher das Gegenteil ist war: Denn hier kann ausgeschlossen werden, daß den Ratschlag eine Animosität motiviert. An Impfgegnern oder Reichsbürgern ist der Grusel ihr exzentrisches Selbstvertrauen. Wer an Schwermetalle in Impfmitteln glaubt, dem ist nicht weniger, sondern mehr zu vertrauen, weil er Überzeugungen nicht so leichtfertig handhabt, wie seine Kleiderwahl am morgen.
