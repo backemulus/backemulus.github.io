@@ -1,24 +1,30 @@
 # Meinung über Meinung
 :hp-tags: gesellschaft, kritik, 
-:published_at: 08-01-2019
+:published_at: 12-01-2019
 
 ### 1
 
-Kritik ist die Meinung über eine Meinung, bzw. Meinung als Reaktion auf Meinung.^<<bookmark-1>>^ _Der kritische Leser ist ein reagierender Leser_. Das hat jeder mindestens mit der Alpabetisierung geübt. So ist die Standarform der Meinungsbekundung die Äußerung der Meinung über Meinungen. Wo eine Meinung »nur« Meinung sein will, da zwingt das internalisierte Kritiktraining, indem die reine Bekundung zweifach als kritische Beobachtet wird: nämlich einmal als unkritische Meinung, insofern sie keine wirkliche (aber unwirkliche) Kritik ist  -- und dann als unkritische Meinung, insofern sie eine mangelhafte (aber eben mangelhafte Kritik) ist.^<<bookmark-2>>^
+Kritik ist die Meinung über eine Meinung, bzw. Meinung als Reaktion auf Meinung.^<<bookmark-1>>^ _Der kritische Leser ist ein reagierender Leser_ (Schlegel). Das hat jeder mindestens mit der Alpabetisierung geübt. So ist Kritik die moderne Standardform der Meinung. 
 
-Bereits das 18. Jahrhundert konnte sich -- ohne daß dies dann noch groß Aufmerksamkeit verdient hätte -- das kritische Jahrhundert nennen. Das klingt heute lächerlich, nicht weil es weniger, sondern weil es umso mehr stimmt: Niemand würde betonen, wir befänden uns im Jahrhundert der Sprache oder des Buchdrucks. Man weiß, es gab mehrere. Wer würde schon betonen, er sei ein Mensch mit zwei Armen?^<<bookmark-3>>^
+Wo eine Meinung »nur« Meinung sein will, da drängt das internalisierte Training; die reine Bekundung wird dann zweifach als kritische Beobachtet: nämlich (1) als unkritische Meinung, insofern sie keine wirkliche (aber unwirkliche) Kritik ist  -- und (2) als unkritische Meinung, insofern sie eine mangelhafte ist.^<<bookmark-2>>^
+
+_Gesellschaftliche Notwendigkeiten wirken unbedingter als körperliche Nötigkeiten._^<<bookmark-3>>^
+
+Bereits das 18. Jahrhundert konnte sich -- ohne daß dies dann noch groß Aufmerksamkeit verdient hätte -- das kritische Jahrhundert nennen. Das klingt heute lächerlich, nicht weil es weniger, sondern weil es umso mehr stimmt: Niemand müßte besonders betonen, wir befänden uns im Jahrhundert der Sprache oder des Buchdrucks. Man weiß, es gab mehrere. Wer würde schon betonen, er sei ein Mensch mit zwei Armen.^<<bookmark-4>>^
 
 
-_Gesellschaftliche Notwendigkeiten wirken unbedingter als körperliche Nötigkeiten._^<<bookmark-4>>^
+
 
 ____
 [[bookmark-1, 1]]^1^ [.small]#Etwas anderes wäre die moralische Mahnung, insofern diese nie Reaktion auf die Meinung, sondern Reaktion auf die Meinungsbekundung ist (»Sowas sagt man nicht.« Was auch noch gilt und gesagt werden kann, wenn voriges nicht gesagt wurde.)#
 
-[[bookmark-2, 2]]^2^ [.small]#Aber beide male eben nach den Maßstäben einer Kritik bewertet. Also weniger Nicht-Kritik als Mißkritik.#
+[[bookmark-2, 2]]^2^ [.small]#Aber beide male eben nach den Maßstab _Kritik_ bewertet. Also nicht als _Nicht-Kritik_, sondern _Mißkritik_ verstanden.#
 
-[[bookmark-3, 3]]^3^ [.small]#So kann dann der Einarmige oder die Armlose allein sich noch auf Artistik was einbilden. Und man liest Sloterdijk zu langweilig, daß er doch Verstümmelung wohl nicht fordern würde, so könne das doch nicht gemeint sein. Man läse ihn richtiger, daß sich Verstümmelung schlicht nicht lohnt, weil auch das längst keine Herausforderung ist. (In Sloterschwafel: keine Vertikalspannung erzeugt.)#
+[[bookmark-3, 3]] ^3^ [.small]#Indizienbeweis: Gegen gesellschaftliches Weh und Ach ist keine Technik effektiv, während man allein schon mit Verweis auf die Brille und Psychopharmaka uns für #
 
-[[bookmark-4, 4]] ^4^ [.small]#Indizienbeweis: Gegen gesellschaftliches Weh und Ach ist keine Technik effektiv, während man allein schon mit Verweis auf die Brille und Psychopharmaka uns für #
+[[bookmark-4, 4]]^4^ [.small]#So kann dann der Einarmige oder die Armlose allein sich noch auf Artistik was einbilden. Und man liest Sloterdijk zu langweilig, daß er doch Verstümmelung wohl nicht fordern würde, so könne das doch nicht gemeint sein. Man läse ihn richtiger, daß sich Verstümmelung schlicht nicht lohnt, weil auch das längst keine Herausforderung ist. (In Sloterschwafel: keine Vertikalspannung erzeugt.)#
+
+
 ____
 
 ### 2
